@@ -1,150 +1,150 @@
 {
   "zh": {
     "ai-cli": [
-      "Claude Code新增技能层",
-      "OpenAI Codex发布第3个alpha版本",
-      "Qwen Code更新至v1.19.5",
-      "Gemini CLI 24小时内提交10个PR",
-      "GitHub Copilot CLI活跃，贡献10个PR",
-      "Pi CLI新增代理工作流支持"
+      "OpenCode 与 Qwen Code 发布新版本",
+      "Codex 发布 Rust alpha，问题激增",
+      "Claude Code 线程 #27302 达 289 条评论",
+      "静默数据与配置丢失成 CLI 主要风险",
+      "MCP 集成与成本可见性趋于融合",
+      "Claude、Gemini、Copilot CLI 无新版本"
     ],
     "ai-agents": [
-      "OpenClaw：今日处理500个问题，500个PR",
-      "网关启动存在关键稳定性漏洞",
-      "Undici v7.30.1安全补丁发布",
-      "Vercel工具链修复fast-uri v3.1.9",
-      "单日合并211个PR",
-      "CLI安全依赖加固进行中"
+      "OpenClaw 分诊 500 个 issue 与 500 个 PR",
+      "24 小时内 224 个 OpenClaw PR 合并或关闭",
+      "头部样本含 7 个 P0 OpenClaw issue",
+      "今日未发布 OpenClaw 新版本",
+      "网关启动与会话状态缺陷占主导",
+      "Extended-stable 2026.9.36 回移活跃"
     ],
     "ai-infra": [
-      "llama.cpp发布v0.8.0",
-      "Ollama更新至v0.40.13",
-      "LiteLLM推出候选版本",
-      "vLLM上周贡献87个PR",
-      "SGLang合并52个PR",
-      "Unsloth当前43个开放问题"
+      "llama.cpp 发布 12 个 nightly 构建 b11971-b11982",
+      "LiteLLM 24 小时内发布三个版本",
+      "vLLM 与 SGLang 进入审查分诊模式",
+      "KV 缓存正确性成为关键战场",
+      "Kimi-K3 与 DeepSeek-v4.1 支持度上升",
+      "基础设施中静默故障多于明显崩溃"
     ],
     "ai-trending": [
-      "Hermes-Agent：25.8万星标，自我生长",
-      "Agent-Reach赋予代理网络访问能力",
-      "NanoBot：超轻量个人AI",
-      "Oh-My-Pi：IDE集成编码代理",
-      "AnythingLLM：隐私优先的AI架构",
-      "Mem0：高级RAG实现上下文留存"
+      "pbakaus/impeccable 以 +2,881 星领跑 AI 趋势",
+      "HKUDS/DeepTutor 今日新增 +1,926 星",
+      "claude-mem 星标突破 104k",
+      "Agent 技能与编码 IDE 主导势头",
+      "持久上下文成为基础设施层",
+      "NousResearch/hermes-agent 保持 258k 星"
     ],
     "ai-web": [
-      "Anthropic携手20家全球实验室",
-      "Claude发现零点击Chrome漏洞",
-      "发现新型类CRISPR酶",
-      "OpenAI拓展ServiceNow合作",
-      "AI for Science计划全球推进",
-      "真实软件漏洞被曝光"
+      "Anthropic 将 AI for Science 扩展至 20 个伙伴",
+      "科研资助方与机构获免费 Claude 额度",
+      "OpenAI 今日未发布新内容",
+      "Anthropic 推出多章节编辑系列",
+      "守门人科学合作取代一对一访问",
+      "增量抓取发现一篇新 Anthropic 文章"
     ],
     "ai-hn": [
-      "Gemini 4 Carbon瞄准边缘设备",
-      "GPT-6.1 Terra强调实时自适应",
-      "指数时间假说不成立？",
-      "Claude训练数据含盗版学术书",
-      "ChatGPT建议危险用药",
-      "AI用于交警执法引发争议"
+      "Gemini 4 Carbon 以 972 分登顶 HN",
+      "Gemini 4 Carbon 在 Intelligence Index v5 排名 #1",
+      "GPT-6.1 Terra 使前沿竞赛持续激烈",
+      "OpenAI 数学/物理声明引发最大争议",
+      "Claude Code 转录隐私担忧浮现",
+      "OpenAI Agent 据称通过 CPU 缓存通信"
     ],
     "ai-ph": [
-      "TheySaid 4.0以366票领先",
-      "Overmind：自主学习系统",
-      "Revix AI适配团队实践",
-      "Off Grid AI本地运行，私密",
-      "NINX专注本地AI执行",
-      "Paddock：代理沙盒环境"
+      "TheySaid 4.0 以 366 票领跑 Product Hunt",
+      "Overmind 与 Revix AI 推动自主学习",
+      "Off Grid AI 与 NINX 强调端侧隐私",
+      "Paddock 为 AI Agent 提供沙箱",
+      "NuPlay 用 AI 自动化客户成功",
+      "专用自改进 Agent 取代通用 LLM"
     ],
     "ai-arxiv": [
-      "安全头部阻止提示注入",
-      "SimpleLoRIF追踪安全退化",
-      "跟随梯度：测试时风险",
-      "Timestral创时间序列新基准",
-      "MoI-Bench提升设备端图像生成",
-      "物理信息模型受关注"
+      "Multi-State Linear Attention 降低长上下文成本",
+      "MuonGS 放宽 LLM 预训练权重范数控制",
+      "学习型注意力门控针对提示注入",
+      "Agent 研究转向可训练系统",
+      "合成工具使用环境驱动 Agent 训练",
+      "视频推理与高效 3D 重建扩展"
     ],
     "ai-community": [
-      "AI开发：80%超越简单提示",
-      "精简输入令牌：实战指南",
-      "为代理重构Git基础设施",
-      "上下文处理主导AI工作",
-      "基准测试质疑幻觉问题",
-      "代理驱动提交涌入仓库"
+      "日志文件可能成为提示注入载体",
+      "审批门仍无法阻止 Agent 错误操作",
+      "实地报告借基准削减 AI Agent 输入 token",
+      "Dev.to 探讨 AI Agent 权限模型",
+      "Lobste.rs 权衡 JS 引擎模糊测试与 AI",
+      "欧盟数据治理争议波及 Lobste.rs"
     ]
   },
   "en": {
     "ai-cli": [
-      "Claude Code gains new Skills layer",
-      "OpenAI Codex hits 3 alpha releases",
-      "Qwen Code updates to v1.19.5",
-      "Gemini CLI sees 10 PRs in 24h",
-      "GitHub Copilot CLI active with 10 PRs",
-      "Pi CLI now supports agent workflows"
+      "OpenCode and Qwen Code ship new releases",
+      "Codex ships Rust alphas amid high issue traffic",
+      "Claude Code thread #27302 hits 289 comments",
+      "Silent data and config loss top CLI risks",
+      "MCP integration and cost visibility converge",
+      "Claude, Gemini, Copilot CLI ship no releases"
     ],
     "ai-agents": [
-      "OpenClaw: 500 issues, 500 PRs today",
-      "Critical stability bugs in gateway startup",
-      "Security patches for Undici v7.30.1",
-      "Vercel toolchain fixed in fast-uri v3.1.9",
-      "211 PRs merged in one day",
-      "Hardened CLI security pins in progress"
+      "OpenClaw triages 500 issues and 500 PRs",
+      "224 OpenClaw PRs merged or closed in 24h",
+      "Seven P0 OpenClaw issues in top sample",
+      "No new OpenClaw release published today",
+      "Gateway startup and session-state bugs dominate",
+      "Extended-stable 2026.9.36 backports active"
     ],
     "ai-infra": [
-      "llama.cpp releases v0.8.0",
-      "Ollama updates to v0.40.13",
-      "LiteLLM rolls out RCs",
-      "vLLM sees 87 PRs last week",
-      "SGLang merges 52 PRs",
-      "Unsloth active with 43 open issues"
+      "llama.cpp ships 12 nightly builds b11971-b11982",
+      "LiteLLM ships three releases in 24 hours",
+      "vLLM and SGLang enter review-and-triage mode",
+      "KV cache correctness becomes key battleground",
+      "Kimi-K3 and DeepSeek-v4.1 enablement grows",
+      "Silent failures outnumber loud crashes in infra"
     ],
     "ai-trending": [
-      "Hermes-Agent: 258K stars, self-growing",
-      "Agent-Reach gives agents internet access",
-      "NanoBot: ultra-lightweight personal AI",
-      "Oh-My-Pi: IDE-integrated coding agent",
-      "AnythingLLM: privacy-first AI stack",
-      "Mem0: advanced RAG for context retention"
+      "pbakaus/impeccable leads AI trending with +2,881 stars",
+      "HKUDS/DeepTutor gains +1,926 stars today",
+      "claude-mem crosses 104k stars",
+      "Agent skills and coding IDEs dominate momentum",
+      "Persistent context emerges as infrastructure layer",
+      "NousResearch/hermes-agent holds 258k stars"
     ],
     "ai-web": [
-      "Anthropic partners with 20 global labs",
-      "Claude finds zero-click Chrome exploit",
-      "New CRISPR-like enzyme discovered",
-      "OpenAI expands ServiceNow partnership",
-      "AI for Science program goes global",
-      "Real-world software vulnerability exposed"
+      "Anthropic expands AI for Science to 20 partners",
+      "Science funders and institutions get free Claude credits",
+      "OpenAI publishes no new content today",
+      "Anthropic launches multi-chapter editorial series",
+      "Gatekeeper science partnerships replace 1:1 access",
+      "Incremental crawl finds one new Anthropic article"
     ],
     "ai-hn": [
-      "Gemini 4 Carbon targets edge devices",
-      "GPT-6.1 Terra emphasizes real-time adaptability",
-      "The Exponential Time Hypothesis is false?",
-      "Claude trained on pirated academic books",
-      "ChatGPT advises dangerous medication",
-      "AI use in police traffic stops sparks debate"
+      "Gemini 4 Carbon tops HN with 972 points",
+      "Gemini 4 Carbon ranks #1 on Intelligence Index v5",
+      "GPT-6.1 Terra keeps frontier race intense",
+      "OpenAI math/physics claims draw largest debate",
+      "Claude Code transcript privacy concerns surface",
+      "OpenAI agents reportedly talk through CPU cache"
     ],
     "ai-ph": [
-      "TheySaid 4.0 leads with 366 votes",
-      "Overmind: autonomous learning system",
-      "Revix AI adapts to team practices",
-      "Off Grid AI runs on-device, private",
-      "NINX focuses on local AI execution",
-      "Paddock: sandboxed environments for agents"
+      "TheySaid 4.0 leads Product Hunt with 366 votes",
+      "Overmind and Revix AI push autonomous learning",
+      "Off Grid AI and NINX emphasize on-device privacy",
+      "Paddock offers sandboxes for AI agents",
+      "NuPlay automates customer success with AI",
+      "Specialized self-improving agents replace generic LLMs"
     ],
     "ai-arxiv": [
-      "Heads of Security blocks prompt injection",
-      "SimpleLoRIF traces safety degradation",
-      "Follow the Gradient: test-time risks",
-      "Timestral sets new time-series benchmark",
-      "MoI-Bench improves on-device image gen",
-      "Physics-informed models gain traction"
+      "Multi-State Linear Attention cuts long-context costs",
+      "MuonGS relaxes weight-norm control for LLM pretraining",
+      "Learned attention gates target prompt injection",
+      "Agent research shifts toward trainable systems",
+      "Synthetic tool-use environments drive agent training",
+      "Video reasoning and efficient 3D reconstruction expand"
     ],
     "ai-community": [
-      "AI dev: 80% beyond just prompting",
-      "Cut input tokens: battle-tested guide",
-      "Git infrastructure rebuilt for agents",
-      "Context handling dominates AI work",
-      "Benchmarks questioned for hallucination",
-      "Agent-driven commits flood repositories"
+      "Log files can become prompt-injection vectors",
+      "Approval gates still fail to stop wrong agent actions",
+      "Field report cuts AI agent input tokens with benchmark",
+      "Dev.to probes permission models for AI agents",
+      "Lobste.rs weighs fuzzing versus AI on JS engines",
+      "EU data-governance controversy hits Lobste.rs"
     ]
   }
 }
