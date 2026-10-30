@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "AI CLI 转向可靠性与成本加固",
+      "Claude Code 发布 v2.1.314 写入阻断",
+      "Codex 发布 rust-v0.166.0 转录更新",
+      "Windows 在各 CLI 工具中仍是弱平台",
+      "MCP 插件认证是生态共同瓶颈",
+      "Codex 与 Qwen 合并速度快"
+    ],
+    "ai-agents": [
+      "OpenClaw 今日更新 500 个议题和 500 个 PR",
+      "OpenClaw 关闭 174 个议题和 192 个 PR",
+      "OpenClaw 发布 v2026.10.9 安全补丁",
+      "OpenClaw 发布 v2026.9.36 网关 LTS 版",
+      "积压含 326 个未决议题和 308 个 PR",
+      "P0/P1 风险集中于会话持久性"
+    ],
+    "ai-infra": [
+      "vLLM 与 SGLang 各涉及约 500 个 PR",
+      "LiteLLM 发布 v1.108.0-rc.1",
+      "llama.cpp 发布 b11978–b11998 构建",
+      "LiteLLM 24 小时涉及 486 个 PR",
+      "KV-cache 局部性与后端一致性驱动工作",
+      "静默 KV 污染与计费缺陷浮现"
+    ],
+    "ai-trending": [
+      "impeccable 以 +2,870 星领跑趋势",
+      "DeepTutor 今日新增 +1,930 星",
+      "jailbreaks 今日新增 +1,594 星",
+      "OpenMausBot 跃增 +1,199 星",
+      "ai-design-skills 新增 +1,187 星",
+      "JetBrains/thinkrail 新增 +1,117 星"
+    ],
+    "ai-web": [
+      "Anthropic 主张轻量稳定的代理框架",
+      "Anthropic 为 Claude 提供 40% GSA 折扣",
+      "GSA 协议扩展至州与地方政府",
+      "约 500 个政府组织使用 Claude",
+      "Claude for Government 周用户增约 8 倍",
+      "Claude Code 最佳实践迁至新文档"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 开放权重得分 1,213",
+      "Gemini 4 Carbon 以 796 条评论居首",
+      "HN 讨论 GPU 调度效率",
+      "代理转录发给模型引发隐私担忧",
+      "国防与健康代理部署受审视",
+      "社区质疑基准与 AI 主张"
+    ],
+    "ai-arxiv": [
+      "ParaTTT 并行化深度记忆测试时训练",
+      "GAAC 无损压缩 KV 缓存",
+      "Rubricon 自动化 LLM 评分量规生成",
+      "Skeleton Coding 面向代理式编码规范",
+      "EasyProver 推进递归定理证明",
+      "临床多代理审议可能洗白偏见"
+    ],
+    "ai-community": [
+      "日志文件提示注入居 Dev.to AI 摘要首位",
+      "日志能劫持 AI？帖子获 27 条评论",
+      "争论 LLM 是否真更擅长编码",
+      "开源 AI 发现未用 Prime Video 支出",
+      "AI 摘要可能不消除安全发现",
+      "为更聪明模型付 9 倍费用遭质疑"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "AI CLI shifts to reliability and cost hardening",
+      "Claude Code ships v2.1.314 with write blocking",
+      "Codex releases rust-v0.166.0 transcript updates",
+      "Windows remains a weak platform across CLI tools",
+      "MCP plugin auth is a shared ecosystem bottleneck",
+      "Codex and Qwen show high merge velocity"
+    ],
+    "ai-agents": [
+      "OpenClaw updated 500 issues and 500 PRs today",
+      "OpenClaw closed 174 issues and 192 PRs",
+      "OpenClaw ships v2026.10.9 security patch",
+      "OpenClaw ships v2026.9.36 gateway LTS release",
+      "Backlog holds 326 open issues and 308 PRs",
+      "P0/P1 risk centers on session durability"
+    ],
+    "ai-infra": [
+      "vLLM and SGLang each touch about 500 PRs",
+      "LiteLLM releases v1.108.0-rc.1",
+      "llama.cpp ships builds b11978–b11998",
+      "LiteLLM touched 486 PRs in 24 hours",
+      "KV-cache locality and backend parity drive work",
+      "Silent KV contamination and billing bugs surface"
+    ],
+    "ai-trending": [
+      "impeccable leads trending with +2,870 stars",
+      "DeepTutor gains +1,930 stars today",
+      "jailbreaks adds +1,594 stars today",
+      "OpenMausBot jumps +1,199 stars",
+      "ai-design-skills gains +1,187 stars",
+      "JetBrains/thinkrail adds +1,117 stars"
+    ],
+    "ai-web": [
+      "Anthropic argues for thin, stable agent harnesses",
+      "Anthropic offers 40% GSA discounts on Claude",
+      "GSA deal extends to state and local governments",
+      "~500 government organizations use Claude",
+      "Claude for Government weekly users up ~8x",
+      "Claude Code best practices moves to new docs"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 open weights score 1,213",
+      "Gemini 4 Carbon tops with 796 comments",
+      "HN debates GPU scheduling efficiency",
+      "Agent transcripts sent to models raise privacy fears",
+      "Defense and health agent deployments draw scrutiny",
+      "Community skeptical of benchmarks and AI claims"
+    ],
+    "ai-arxiv": [
+      "ParaTTT parallelizes deep-memory test-time training",
+      "GAAC compresses KV caches losslessly",
+      "Rubricon automates LLM rubric generation",
+      "Skeleton Coding targets agentic coding specs",
+      "EasyProver advances recursive theorem proving",
+      "Clinical multi-agent deliberation can launder bias"
+    ],
+    "ai-community": [
+      "Log-file prompt injection tops Dev.to AI digest",
+      "Can logs hijack AI? Post draws 27 comments",
+      "Debate asks if LLMs are truly better at coding",
+      "Open-source AI catches unused Prime Video spend",
+      "AI summaries may not close security findings",
+      "Paying 9x for a smarter model questioned"
+    ]
+  }
+}
