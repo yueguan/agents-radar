@@ -1,134 +1,134 @@
 {
   "zh": {
     "ai-cli": [
-      "AI CLI 转向可靠性与成本加固",
-      "Claude Code 发布 v2.1.314 写入阻断",
-      "Codex 发布 rust-v0.166.0 转录更新",
-      "Windows 在各 CLI 工具中仍是弱平台",
-      "MCP 插件认证是生态共同瓶颈",
-      "Codex 与 Qwen 合并速度快"
+      "Claude Code v2.1.314 发布稳定性修复版",
+      "OpenAI Codex rust-v0.166.0 正式上线",
+      "Gemini CLI 报告10个热门问题",
+      "OpenCode 和 Pi 成为开源替代新选择",
+      "GitHub Copilot CLI 新增代理编排功能",
+      "Qwen Code 新版本支持多模态"
     ],
     "ai-agents": [
-      "OpenClaw 今日更新 500 个议题和 500 个 PR",
-      "OpenClaw 关闭 174 个议题和 192 个 PR",
-      "OpenClaw 发布 v2026.10.9 安全补丁",
-      "OpenClaw 发布 v2026.9.36 网关 LTS 版",
-      "积压含 326 个未决议题和 308 个 PR",
-      "P0/P1 风险集中于会话持久性"
+      "OpenClaw v2026.10.10-beta.5 修复 Node.js 兼容性",
+      "OpenClaw beta 中 Node 26 工作器已稳定",
+      "OpenClaw v2026.10.9 修复 fast-uri 安全漏洞",
+      "Hermes Agent 更新内存持久化能力",
+      "IronClaw 发布扩展稳定更新",
+      "QwenPaw 提升代理技能链能力"
     ],
     "ai-infra": [
-      "vLLM 与 SGLang 各涉及约 500 个 PR",
-      "LiteLLM 发布 v1.108.0-rc.1",
-      "llama.cpp 发布 b11978–b11998 构建",
-      "LiteLLM 24 小时涉及 486 个 PR",
-      "KV-cache 局部性与后端一致性驱动工作",
-      "静默 KV 污染与计费缺陷浮现"
+      "vLLM 近期无重大变更",
+      "SGLang 提升推测解码性能",
+      "llama.cpp b12001 版本含破坏性变更",
+      "Ollama 无新发布但 PR 活跃度高",
+      "LiteLLM v1.109.0-dev.2 引入路由变更",
+      "Unsloth 优化 Apple Silicon 推理速度"
     ],
     "ai-trending": [
-      "impeccable 以 +2,870 星领跑趋势",
-      "DeepTutor 今日新增 +1,930 星",
-      "jailbreaks 今日新增 +1,594 星",
-      "OpenMausBot 跃增 +1,199 星",
-      "ai-design-skills 新增 +1,187 星",
-      "JetBrains/thinkrail 新增 +1,117 星"
+      "DeepTutor 以5万星领跑终身辅导",
+      "morluto/rea 逆向工程代理达40.9万星",
+      "ECC 成 Claude Code 首选代理工具",
+      "Graphify 与 LightRAG RAG 流程成熟",
+      "CopilotKit 获青睐于结构化代理控制",
+      "Claude-Mem 实现持久化 AI 记忆"
     ],
     "ai-web": [
-      "Anthropic 主张轻量稳定的代理框架",
-      "Anthropic 为 Claude 提供 40% GSA 折扣",
-      "GSA 协议扩展至州与地方政府",
-      "约 500 个政府组织使用 Claude",
-      "Claude for Government 周用户增约 8 倍",
-      "Claude Code 最佳实践迁至新文档"
+      "Anthropic 推出政府专用 GSA 协议",
+      "Claude Enterprise 公共部门降价40%",
+      "托管代理论文重定义代理架构",
+      "Claude Code 最佳实践迁移至 code.claude.com/docs",
+      "新 GSA 采用指标显示用户增长8倍",
+      "政府使用 Claude 政府版同比上升20倍"
     ],
     "ai-hn": [
-      "Mistral Large 4 开放权重得分 1,213",
-      "Gemini 4 Carbon 以 796 条评论居首",
-      "HN 讨论 GPU 调度效率",
-      "代理转录发给模型引发隐私担忧",
-      "国防与健康代理部署受审视",
-      "社区质疑基准与 AI 主张"
+      "Mistral Large 4 开源权重引发热议",
+      "Gemini 4 Carbon 导致谷歌市值暴跌5000亿",
+      "Claude Code 将代理日志发送后端",
+      "恶意插件安装 SSH 后门",
+      "AI 代理可玩 Minecraft 与 Mindustry",
+      "Sleep Framework 推进持续学习研究"
     ],
     "ai-arxiv": [
-      "ParaTTT 并行化深度记忆测试时训练",
-      "GAAC 无损压缩 KV 缓存",
-      "Rubricon 自动化 LLM 评分量规生成",
-      "Skeleton Coding 面向代理式编码规范",
-      "EasyProver 推进递归定理证明",
-      "临床多代理审议可能洗白偏见"
+      "解析大模型数据归属设计空间",
+      "ShallowDefend 加强多轮安全对齐",
+      "模板化多语言安全训练扩展",
+      "质疑神经密林的几何基础",
+      "奖励无关世界模型挑战假设",
+      "自主代理实现预犯罪检测"
     ],
     "ai-community": [
-      "日志文件提示注入居 Dev.to AI 摘要首位",
-      "日志能劫持 AI？帖子获 27 条评论",
-      "争论 LLM 是否真更擅长编码",
-      "开源 AI 发现未用 Prime Video 支出",
-      "AI 摘要可能不消除安全发现",
-      "为更聪明模型付 9 倍费用遭质疑"
+      "LLM 是否超越人类？‘更好’定义再争议",
+      "开源 AI 捕获未用 Prime Video 订阅",
+      "合成疤痕框架提升 AI 可靠性",
+      "Hacktoberfest '机器中的幽灵'挑战启动",
+      "向量数据库被批为缺陷代理记忆",
+      "模型停用推高 AI 批处理成本"
     ]
   },
   "en": {
     "ai-cli": [
-      "AI CLI shifts to reliability and cost hardening",
-      "Claude Code ships v2.1.314 with write blocking",
-      "Codex releases rust-v0.166.0 transcript updates",
-      "Windows remains a weak platform across CLI tools",
-      "MCP plugin auth is a shared ecosystem bottleneck",
-      "Codex and Qwen show high merge velocity"
+      "Claude Code v2.1.314 released with stability fixes",
+      "OpenAI Codex rust-v0.166.0 now live",
+      "Gemini CLI sees 10 hot issues reported",
+      "OpenCode and Pi gain traction as open-source alternatives",
+      "GitHub Copilot CLI gains new agent orchestration features",
+      "Qwen Code adds multi-modal support in latest release"
     ],
     "ai-agents": [
-      "OpenClaw updated 500 issues and 500 PRs today",
-      "OpenClaw closed 174 issues and 192 PRs",
-      "OpenClaw ships v2026.10.9 security patch",
-      "OpenClaw ships v2026.9.36 gateway LTS release",
-      "Backlog holds 326 open issues and 308 PRs",
-      "P0/P1 risk centers on session durability"
+      "OpenClaw v2026.10.10-beta.5 fixes Node.js compatibility",
+      "Node 26 workers now stable in OpenClaw beta",
+      "Security patch for fast-uri in OpenClaw v2026.10.9",
+      "Hermes Agent gains memory persistence updates",
+      "IronClaw releases extended-stable update",
+      "QwenPaw boosts agent skill chaining capabilities"
     ],
     "ai-infra": [
-      "vLLM and SGLang each touch about 500 PRs",
-      "LiteLLM releases v1.108.0-rc.1",
-      "llama.cpp ships builds b11978–b11998",
-      "LiteLLM touched 486 PRs in 24 hours",
-      "KV-cache locality and backend parity drive work",
-      "Silent KV contamination and billing bugs surface"
+      "vLLM maintains zero breaking changes in recent week",
+      "SGLang enhances speculative decoding performance",
+      "llama.cpp releases b12001 with breaking change",
+      "Ollama sees no new releases but strong PR activity",
+      "LiteLLM v1.109.0-dev.2 introduces routing changes",
+      "Unsloth optimizes Apple Silicon inference speed"
     ],
     "ai-trending": [
-      "impeccable leads trending with +2,870 stars",
-      "DeepTutor gains +1,930 stars today",
-      "jailbreaks adds +1,594 stars today",
-      "OpenMausBot jumps +1,199 stars",
-      "ai-design-skills gains +1,187 stars",
-      "JetBrains/thinkrail adds +1,117 stars"
+      "DeepTutor leads with 50K stars for lifelong tutoring",
+      "morluto/rea hits 409K stars as reverse engineering agent",
+      "ECC emerges as top agent harness for Claude Code",
+      "Graphify and LightRAG mature in RAG workflows",
+      "CopilotKit gains traction for structured agent control",
+      "Claude-Mem enables persistent AI memory systems"
     ],
     "ai-web": [
-      "Anthropic argues for thin, stable agent harnesses",
-      "Anthropic offers 40% GSA discounts on Claude",
-      "GSA deal extends to state and local governments",
-      "~500 government organizations use Claude",
-      "Claude for Government weekly users up ~8x",
-      "Claude Code best practices moves to new docs"
+      "Anthropic launches GSA agreement for government use",
+      "Claude Enterprise now 40% off for public sector",
+      "Managed Agents essay redefines agent infrastructure",
+      "Claude Code Best Practices moved to code.claude.com/docs",
+      "New GSA adoption metrics show 8x growth in users",
+      "Government usage of Claude for Government up 20x YoY"
     ],
     "ai-hn": [
-      "Mistral Large 4 open weights score 1,213",
-      "Gemini 4 Carbon tops with 796 comments",
-      "HN debates GPU scheduling efficiency",
-      "Agent transcripts sent to models raise privacy fears",
-      "Defense and health agent deployments draw scrutiny",
-      "Community skeptical of benchmarks and AI claims"
+      "Mistral Large 4 open weights spark major debate",
+      "Gemini 4 Carbon causes $500B Google stock plunge",
+      "Claude Code sends agent transcripts to backend",
+      "Trojanized extension installs SSH backdoor",
+      "AI agents now play Minecraft and Mindustry",
+      "Sleep Framework advances continual learning research"
     ],
     "ai-arxiv": [
-      "ParaTTT parallelizes deep-memory test-time training",
-      "GAAC compresses KV caches losslessly",
-      "Rubricon automates LLM rubric generation",
-      "Skeleton Coding targets agentic coding specs",
-      "EasyProver advances recursive theorem proving",
-      "Clinical multi-agent deliberation can launder bias"
+      "Elucidating LM Data Attribution design space",
+      "ShallowDefend strengthens multi-turn safety alignment",
+      "Template-based multilingual safety training scaling",
+      "Neural thickets' geometric basis questioned",
+      "Reward-free world models challenge assumptions",
+      "Autonomous agents enable pre-crime detection"
     ],
     "ai-community": [
-      "Log-file prompt injection tops Dev.to AI digest",
-      "Can logs hijack AI? Post draws 27 comments",
-      "Debate asks if LLMs are truly better at coding",
-      "Open-source AI catches unused Prime Video spend",
-      "AI summaries may not close security findings",
-      "Paying 9x for a smarter model questioned"
+      "LLMs outperform humans? Debate over 'better' defined",
+      "Open-source AI catches unused Prime Video subscription",
+      "Synthetic scars framework improves AI reliability",
+      "Hacktoberfest’s 'Ghost in the Machine' challenge launched",
+      "Vector databases criticized as flawed agent memory",
+      "AI batch job costs rise amid model deprecation"
     ]
   }
 }

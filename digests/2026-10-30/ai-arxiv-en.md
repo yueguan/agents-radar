@@ -1,65 +1,73 @@
 # ArXiv AI Research Digest 2026-10-30
 
-> Source: [ArXiv](https://arxiv.org/) (cs.AI, cs.CL, cs.LG) | 38 papers | Generated: 2026-10-30 02:07 UTC
+> Source: [ArXiv](https://arxiv.org/) (cs.AI, cs.CL, cs.LG) | 50 papers | Generated: 2026-10-30 08:16 UTC
 
 ---
 
-# ArXiv AI Research Digest — 2026-10-30
+---
 
-## 1. Today’s Highlights
+### **Today's Highlights**
 
-Today’s batch is dominated by efforts to make expressive LLM components practical: **ParaTTT** parallelizes deep-memory test-time-training layers, **GAAC** compresses KV caches losslessly, and **FSDP/GearUp** target communication and serverless inference overheads. Evaluation and training infrastructure is also maturing, with **Rubricon** automating rubric generation and new benchmarks such as **DecompGym** and **3DCodeEdit** targeting agentic algorithm design and 3D program editing. Agentic coding and theorem proving are increasingly studied through specifications, precedent-vs-intent conflicts, and recursive search, exemplified by **Skeleton Coding** and **EasyProver**. Safety and fairness work moves toward deployment realism: clinical multi-agent deliberation can **launder disparities**, agent memory is vulnerable to **role-grounding attacks**, and multilingual safety audits isolate which prompt components carry language effects.
+Recent AI research on October 30, 2026, reflects a growing focus on *mechanistic interpretability*, *robustness under real-world constraints*, and *autonomous reasoning* in high-stakes domains. Notably, multiple papers challenge foundational assumptions—such as the geometric basis of neural thickets or the necessity of reward signals in world models—while advancing practical tools for safety, unlearning, and verification. The rise of agentic systems capable of collaborative scientific discovery, clinical decision support, and even pre-crime detection underscores a shift from passive models to proactive, accountable AI. Meanwhile, efficient inference, scalable oversight, and multilingual alignment are being reimagined through novel architectures and training paradigms.
 
-## 2. Key Papers
+---
 
-Selected 15 papers from 38 submissions.
+### **Key Papers**
 
-### 🧠 Large Language Models (architecture, training, alignment, evaluation)
-
-| Paper | Authors | Summary |
-| :--- | :--- | :--- |
-| [ParaTTT: Parallelizing Test-Time Training Layers with Deep Memories](http://arxiv.org/abs/2610.38255v1) | Noel Loo, Neehal Tumma, T. Konstantin Rusch et al. | Introduces a parallelization strategy for test-time-training layers whose nonlinear deep memory is trained online by gradient descent. This matters because it could make expressive recurrent/LLM layers practical at scale without sacrificing the benefits of deep fast-weight memory. |
-| [Rubricon: Automated Rubric Generation and Refinement for LLM Evaluation and Training](http://arxiv.org/abs/2610.38220v1) | Ulyana Tkachenko, Hui Wen Goh, Guram Gogia et al. | Presents a pipeline that generates and refines discriminative rubrics for LLM evaluation and reward assignment without human preference labels or generator-model training. It lowers the cost of evaluating open-ended tasks where verifiable answers are unavailable. |
-| [GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices](http://arxiv.org/abs/2610.38210v1) | Yipin Guo, Arun M George, Siddharth Joshi | Proposes a group-adaptive additive codec that losslessly compresses the KV cache for bandwidth-efficient long-context LLM inference on personal devices. It targets the growing KV-cache memory-bandwidth bottleneck left by weight-only quantization. |
-| [Component Translation and Judge-Labelled Refusal: A Multilingual Safety Evaluation](http://arxiv.org/abs/2610.38181v1) | Yongxi Zhou, Junwei Yao, Wenbo Ye et al. | Introduces a paired-reversal multilingual safety evaluation that translates either the full request or the operation component into the same target language. The design isolates which prompt component carries language effects and uses judge-labelled refusal to compare safety behavior. |
-
-### 🤖 Agents & Reasoning (planning, tool use, multi-agent, chain-of-thought)
+#### 🧠 Large Language Models (architecture, training, alignment, evaluation)
 
 | Paper | Authors | Summary |
 | :--- | :--- | :--- |
-| [Precedent or Intent? What Coding Agents Follow When Evolving Existing Code](http://arxiv.org/abs/2610.38244v1) | Haichao Zhu, Geyang Xu, Zhaorui Yang et al. | Studies whether coding agents follow past implementation precedent or new task intent when evolving existing code. The findings inform how specifications and repository context should be designed for reliable agentic software evolution. |
-| [Skeleton Coding: Program Structure as a Specification for Agents](http://arxiv.org/abs/2610.38214v1) | Aditya Golatkar, Alessandro Achille, Renos Zabounidis et al. | Argues that program structure itself can serve as a compact specification for coding agents, reducing reliance on exhaustive tests and input-output examples. This could improve controllability and reduce specification burden in agent-assisted programming. |
-| [DecompGym: Benchmarking LLM Agents on Designing Decomposition Algorithms](http://arxiv.org/abs/2610.38175v1) | Sikai Cheng, Tinghan Ye, Arnaud Deza et al. | Introduces a benchmark for LLM agents that design decomposition algorithms such as Benders decomposition and column generation. It targets hard, correctness-sensitive optimization workflows where agents must coordinate cuts, columns, and dual values. |
-| [Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction](http://arxiv.org/abs/2610.38209v1) | Haoran Bu, Yiting Shen, Litian Zhang et al. | Identifies Role Grounding Misattribution, a vulnerability in agent memory where attackers exploit role-to-principal attribution through social interaction. It highlights a concrete security risk for persistent LLM agents that learn preferences from social platforms. |
-| [Scaling Lean Theorem Proving for Real-World Code Verification](http://arxiv.org/abs/2610.38174v1) | Debargha Ganguly, Divya Raghunathan, Dejan Jovanović et al. | Presents a Lean proving system built from recursive agents with isolated contexts, asynchronous search, parallel tactic probing, and elastic elaboration. It reports 669/672 PutnamBench problems and all six IMO problems in the reported evaluation using an off-the-shelf frontier model. |
+| [Elucidating the Design Space of LM Data Attribution](http://arxiv.org/abs/2610.40655v1) | Steven Yu et al. | This paper identifies confounding factors in existing data attribution evaluations, proposing a controlled design space to isolate failure modes—critical for building trustworthy model transparency tools. |
+| [ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](http://arxiv.org/abs/2610.40627v1) | Qiyao Ma et al. | Reveals that current safety alignment is brittle across multi-turn interactions due to shallow, localized behavior; proposes a mechanism to strengthen defensive consistency without retraining. |
+| [How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates](http://arxiv.org/abs/2610.40516v1) | Max Neuwinger et al. | Introduces a template-based framework to scale multilingual safety alignment beyond English, significantly improving low-resource language performance and reducing bias. |
+| [Preserving Utility in Continual LLM Unlearning via Orthogonal Projections](http://arxiv.org/abs/2610.40483v1) | Juan Belieni et al. | Presents an efficient, orthogonal-projection-based method for continual unlearning that maintains model utility while removing sensitive data—ideal for GDPR-compliant deployment. |
 
-### 🔧 Methods & Frameworks (new techniques, benchmarks, efficiency improvements)
-
-| Paper | Authors | Summary |
-| :--- | :--- | :--- |
-| [The Endgame of FSDP Communication: Layout-Aware Collectives on Copy Engines, RDMA, and NVSwitch](http://arxiv.org/abs/2610.38228v1) | Zejian Wang, Yifan Zhao, Kaihui Ren et al. | Proposes layout-aware collectives for FSDP2 using copy engines, RDMA, and NVSwitch to avoid copying all-gather outputs and packing gradients into flat buffers. It addresses a remaining communication and memory-movement bottleneck in large-model training. |
-| [GearUp: DAG-aware Acceleration for Serverless Inference Serving via Slack-guided Pre-loading](http://arxiv.org/abs/2610.38196v1) | Qi Qi, Yifan Sui, Hanfei Yu et al. | Accelerates serverless ML inference workflows by using DAG-aware, slack-guided pre-loading of libraries, weights, and CUDA kernels along dependency paths. It reduces cumulative startup and model-loading costs in function-level inference serving. |
-| [3DCodeEdit: Benchmarking Instruction-Guided 3D Program Editing](http://arxiv.org/abs/2610.38231v1) | Binjie Wang, Xinran Zhao, Shoubin Yu et al. | Introduces a benchmark for instruction-guided editing of 3D programs, where models must understand what code builds and predict how edits reshape the result. It fills a gap between 3D generation and practical code-based editing workflows. |
-
-### 📊 Applications (domain-specific, multimodal, code generation)
+#### 🤖 Agents & Reasoning (planning, tool use, multi-agent, chain-of-thought)
 
 | Paper | Authors | Summary |
 | :--- | :--- | :--- |
-| [Disparity Laundering: Consensus Without Fairness in Clinical Multi-Agent Systems](http://arxiv.org/abs/2610.38215v1) | Xiaoyang Wang, Tianrui Wang, Christopher C. Yang | Evaluates clinical multi-agent LLM teams across five model families and four aggregation topologies on 120 MIMIC-IV emergency cases. It finds that deliberation can launder disparities rather than average out individual bias, challenging assumptions about consensus-based fairness. |
-| [The Indian Financial Automated Advice Bias (IFAAB) Dataset: Auditing Socioeconomic and Demographic Disparities in LLM-Generated Financial Advice in India](http://arxiv.org/abs/2610.38239v1) | Kriti Mahajan | Introduces a counterfactual audit dataset of 31,734 GPT-4o-generated financial advice responses in India to test socioeconomic and demographic disparities. It extends LLM bias auditing to Global South financial guidance, where advice can affect consequential decisions. |
-| [MEV: A Multi-Event Video Dataset for Long-Take Generation](http://arxiv.org/abs/2610.38241v1) | Peiyuan Zhu, Shaoan Xie, Yifan Shen et al. | Presents a multi-event video dataset designed for long-take text-to-video generation with temporal dependencies across events. It provides supervision that short single-event clips lack, supporting more temporally consistent multi-event generation. |
+| [Collaborative AI agents for autonomous experimental research with solid-state quantum spins](http://arxiv.org/abs/2610.40589v1) | El Mustapha Mansouri et al. | Demonstrates a multi-agent system that autonomously designs, executes, and interprets quantum spin experiments, marking progress toward fully automated scientific labs. |
+| [Agentic University: Collaborative Agents for Personalized Learning](http://arxiv.org/abs/2610.40492v1) | Jingru Fan et al. | Proposes a framework where multiple AI agents coordinate to personalize education paths, adapt to learner progress, and maintain coherent long-term goals. |
+| [rTaste: Do Research Agents Have Taste? Evaluating Early Stage Research Judgment](http://arxiv.org/abs/2610.40488v1) | Art Kanke | Tests whether frontier LLMs can judge research value before outcomes—finding they generate plausible minimum viable experiments, signaling progress in early-stage judgment. |
+| [VeriCUA: Verification as Agentic Exploration for Computer-Using Agents](http://arxiv.org/abs/2610.40578v1) | Qiushi Sun et al. | Introduces a verification protocol where agents explore digital environments to validate task completion—enabling reliable evaluation and RL in desktop/web automation. |
 
-## 3. Research Trend Signal
+#### 🔧 Methods & Frameworks (new techniques, benchmarks, efficiency improvements)
 
-Across today’s papers, the clearest signal is co-design of model capability and systems efficiency. TTT parallelization, lossless KV compression, layout-aware FSDP collectives, and DAG-aware serverless pre-loading all treat inference and training bottlenecks as first-class research problems rather than deployment details. A second trend is the industrialization of evaluation: automated rubric generation, decomposition-algorithm benchmarks, 3D code-editing benchmarks, and Lean proving agents shift evaluation from static QA toward verifiable, multi-step workflows. Third, agent safety is becoming more structural: papers examine memory poisoning via role misattribution, fairness laundering in multi-agent clinical consensus, and component-level multilingual refusal behavior. Finally, domain audits and datasets—clinical triage, Indian financial advice, and long-take video—show growing attention to socioeconomic and temporal realism. Expect more work on agent specifications, security boundaries, and evaluation harnesses that can keep pace with tool-using models.
+| Paper | Authors | Summary |
+| :--- | :--- | :--- |
+| [Multi-View MoE: Letting Every Router Shape Expert Computation](http://arxiv.org/abs/2610.40577v1) | Zelin Zhao et al. | Proposes a multi-view routing mechanism in MoE models that improves expert specialization and reduces disagreement between router decisions—enhancing model expressiveness. |
+| [An ODE-based Sampler for Discrete Diffusion Models](http://arxiv.org/abs/2610.40618v1) | Samson Gourevitch et al. | Extends continuous probability flow ODEs to discrete diffusion models, enabling faster, deterministic sampling without sacrificing fidelity. |
+| [Efficient Scalable Oversight via Rewinding](http://arxiv.org/abs/2610.40535v1) | Ziyi Guan et al. | Introduces rewinding-based oversight—a lightweight, verifiable method for checking powerful AI outputs using interactive proofs, ideal for large-scale deployment. |
+| [Training Foundation Models with a Single Algorithm](http://arxiv.org/abs/2610.40564v1) | Yuda Song et al. | Shows that pretraining, SFT, and RL can be unified under one algorithmic framework by deriving RL objectives from maximum-likelihood principles—reducing pipeline complexity. |
 
-## 4. Worth Deep Reading
+#### 📊 Applications (domain-specific, multimodal, code generation)
 
-- **[ParaTTT: Parallelizing Test-Time Training Layers with Deep Memories](http://arxiv.org/abs/2610.38255v1)** — A core architecture/systems contribution: if the parallelization works, it addresses a major obstacle to using expressive deep-memory TTT layers at scale. Read for the parallelization design and its implications for recurrent/LLM architectures.
+| Paper | Authors | Summary |
+| :--- | :--- | :--- |
+| [From extreme weather to agricultural consequences with agentic AI](http://arxiv.org/abs/2610.40641v1) | Minghan Yu et al. | Presents WxCrop, the first agentic AI that forecasts crop impacts from extreme weather by integrating meteorological, soil, and market data—bridging climate science and food security. |
+| [Advancing Clinical Genomic Analysis with a Skill-Centred Agent](http://arxiv.org/abs/2610.40556v1) | Qiaoyu Zheng et al. | Develops a skill-based agent that navigates evolving genomic guidelines and databases to assist clinicians in real-time decision-making—addressing a major bottleneck in precision medicine. |
+| [TRACER, a time-to-event EHR foundation model for disease detection across health systems](http://arxiv.org/abs/2610.40536v1) | Mara Pleasure et al. | Introduces TRACER, a decoder-based EHR foundation model that predicts future diagnoses years ahead using longitudinal records—enabling early screening across diverse healthcare systems. |
+| [Luggage re-identification: A study of strategies towards a real-world application](http://arxiv.org/abs/2610.40643v1) | Quentin Dhôte et al. | Evaluates ReID methods for luggage tracking in surveillance, identifying key challenges in viewpoint variation and occlusion—critical for airport security and lost baggage recovery. |
 
-- **[Scaling Lean Theorem Proving for Real-World Code Verification](http://arxiv.org/abs/2610.38174v1)** — Strong empirical theorem-proving results plus a reusable recursive-agent and elastic-elaboration design. Read for how isolated contexts, asynchronous search, and parallel tactic probing combine into a scalable proving system.
+---
 
-- **[Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction](http://arxiv.org/abs/2610.38209v1)** — Identifies a concrete memory-security failure mode for socially interacting agents. Read for the threat model and implications for persistent agent memory, preference learning, and role-to-principal attribution.
+### **Research Trend Signal**
+
+The latest ArXiv submissions reveal a pivotal shift toward *agent-centric, accountable AI systems* that operate autonomously in complex, real-world environments. A recurring theme is the move from static models to dynamic, goal-oriented agents capable of planning, verifying, and collaborating—evident in applications ranging from quantum experimentation to clinical genomics. Concurrently, there is growing emphasis on *mechanistic understanding*: papers like "Rethinking Neural Thickets" and "A Low-Rank Space Captures Linear Alignment" challenge intuitive but unproven hypotheses about model behavior, pushing for more rigorous, testable theories. Efficiency and robustness remain central, with innovations in differentially private filtering, continual unlearning, and ODE-based samplers reflecting demand for trustworthy, deployable systems. Crucially, many works now integrate *verification*, *alignment*, and *interpretability* not as afterthoughts but as core components of design—indicating maturation in AI research beyond mere performance gains.
+
+---
+
+### **Worth Deep Reading**
+
+1. **[Rethinking Neural Thickets Without Weight Perturbations](http://arxiv.org/abs/2610.40649v1)**  
+   *Why*: This paper dismantles a widely cited hypothesis in LLM interpretability—neural thickets—by showing that reported gains do not require geometric perturbations. It forces a rethink of how we understand model generalization and opens new avenues for probing internal representations without relying on random noise.
+
+2. **[world2vec: Mechanistic World Models through Latent Dynamics Learning](http://arxiv.org/abs/2610.40637v1)**  
+   *Why*: Unlike most world models that optimize for control, this work builds *mechanistically interpretable* dynamics from latent space—without direct reward signals. It offers a path toward scientific discovery via AI, making it essential reading for researchers aiming to turn black-box models into explanatory tools.
+
+3. **[FARMS: A Verifiable Foundation for Automated Computational Science](http://arxiv.org/abs/2610.40560v1)**  
+   *Why*: As AI enters computational science, FARMS provides a formal, mathematically grounded framework that ensures correctness and reuse of numerical methods. It’s a rare example of AI that doesn’t just predict—but proves—its results, setting a gold standard for future autonomous research systems.
 
 ---
 *This digest is auto-generated by [agents-radar](https://github.com/yueguan/agents-radar).*
