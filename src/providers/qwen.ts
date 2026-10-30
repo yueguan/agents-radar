@@ -15,7 +15,7 @@
 
 import { OpenAICompatibleProvider } from "./openai-compatible.ts";
 
-const QWEN_BASE_URL = "https://ws-lp67r4thsmcegm03.cn-beijing.maas.aliyuncs.com/compatible-mode/v1";
+const QWEN_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1";
 
 export class QwenProvider extends OpenAICompatibleProvider {
   readonly name = "qwen";
