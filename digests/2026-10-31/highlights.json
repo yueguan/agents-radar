@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.316：池化预算，超思考开关",
+      "OpenAI Codex：24小时内合并10个PR",
+      "Gemini CLI夜间版：v0.67.0-nightly.20261031",
+      "GitHub Copilot CLI：容器化部署已上线",
+      "OpenCode：原生目标系统上线",
+      "Qwen Code：新增开源模型支持"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10-beta.5：Node.js稳定性修复",
+      "Windows服务崩溃循环问题修复",
+      "Agent DB租约问题跨平台仍存在",
+      "Copilot使用数据在非法JSON下自动刷新",
+      "Hermes Agent：新多智能体协调层",
+      "IronClaw：带记忆持久化的测试版发布"
+    ],
+    "ai-infra": [
+      "vLLM：48个开放问题，无新版本",
+      "SGLang：推测解码进一步推进",
+      "llama.cpp：Apple Silicon边缘优化",
+      "Ollama v0.40.13：稳定版发布",
+      "LiteLLM v1.109.0-dev.2：测试路由代理上线",
+      "Unsloth：Llama 3新量化性能提升"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem：今日+1,140星标",
+      "DeepTutor：终身学习型AI导师",
+      "RAGflow：高级RAG智能体框架",
+      "CopilotKit/OpenBot：模块化智能体框架",
+      "Affaan-M/ECC：可组合智能体工具包",
+      "LangChain：现已集成企业工具链"
+    ],
+    "ai-web": [
+      "Anthropic：管理型智能体接口稳定",
+      "Claude发现Chrome零点击漏洞",
+      "OpenAI：今日发布三个仅含元数据页面",
+      "新研究：管理型智能体正式推出",
+      "Claude网络安全论文引发争议",
+      "OpenAI暗示公平使用政策调整"
+    ],
+    "ai-hn": [
+      "Claude Code VS Code插件发现后门",
+      "Mistral Large 4开源权重发布：HN热帖",
+      "Google睡眠框架：防止灾难性遗忘",
+      "华尔街抛售：AI支出可持续性受质疑",
+      "Anthropic信用下调：市场疑虑加剧",
+      "工程师技能退化担忧上升"
+    ],
+    "ai-arxiv": [
+      "TextSeal2：无性能损失的水印技术",
+      "world2vec：无需保真的世界建模",
+      "阐明语言模型数据归属：新评估设计",
+      "ShallowDefend：安全对齐脆弱",
+      "我如何对齐你的模型：多语言安全模板",
+      "代理科学：AI自主提出实验"
+    ],
+    "ai-community": [
+      "Ofrenda：开放权重AI数字纪念馆",
+      "Marigold/router：记忆保持型智能体路由器",
+      "Undead Agent：模拟持续AI身份",
+      "恶意篡改Claude插件中发现SSH后门",
+      "Hacktoberfest AI挑战：聚焦记忆与身份",
+      "MoE卸载并非总更快：GPU测试结果"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.316: Pooled budgets, ultrathink toggle",
+      "OpenAI Codex: 10 PRs merged in 24h",
+      "Gemini CLI nightly: v0.67.0-nightly.20261031",
+      "GitHub Copilot CLI: Containerized deployments now live",
+      "OpenCode: Native goal system launched",
+      "Qwen Code: New open-source model support"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10-beta.5: Node.js fix for stability",
+      "Windows service crash loops fixed in OpenClaw",
+      "Agent DB lease issues still persist across platforms",
+      "Copilot usage data now refreshes on malformed JSON",
+      "Hermes Agent: New multi-agent coordination layer",
+      "IronClaw: Beta release with memory persistence"
+    ],
+    "ai-infra": [
+      "vLLM: 48 open issues, no new release",
+      "SGLang: Speculative decoding pushed further",
+      "llama.cpp: Edge optimization for Apple Silicon",
+      "Ollama v0.40.13: Stable release out",
+      "LiteLLM v1.109.0-dev.2: Beta routing proxy live",
+      "Unsloth: New quantization gains for Llama 3"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem: +1,140 stars today",
+      "DeepTutor: Lifelong learning AI tutor",
+      "RAGflow: Advanced RAG agent framework",
+      "CopilotKit/OpenBot: Modular agent framework",
+      "Affaan-M/ECC: Composable agent toolkit",
+      "LangChain: Now integrates with enterprise toolchains"
+    ],
+    "ai-web": [
+      "Anthropic: Managed agents with stable interfaces",
+      "Claude discovers zero-click exploits in Chrome",
+      "OpenAI: Three metadata-only pages posted today",
+      "New research: Scaling managed agents officially launched",
+      "Claude's cybersecurity paper sparks debate",
+      "OpenAI hints at fair use policy changes"
+    ],
+    "ai-hn": [
+      "Backdoor found in Claude Code VS Code extension",
+      "Mistral Large 4 open-weight release: HN top post",
+      "Google Sleep Framework: Prevents catastrophic forgetting",
+      "Wall Street selloff: AI spending sustainability questioned",
+      "Anthropic credit downgrade: Market skepticism grows",
+      "Deskilling concerns rise among engineers"
+    ],
+    "ai-arxiv": [
+      "TextSeal2: Watermarking without performance loss",
+      "world2vec: World modeling without fidelity drop",
+      "Elucidating LM Data Attribution: New evaluation design",
+      "ShallowDefend: Safety alignment is brittle",
+      "How I Aligned Your Model: Multilingual safety templates",
+      "Agentic science: AI proposes experiments autonomously"
+    ],
+    "ai-community": [
+      "Ofrenda: Digital memorial with open-weight AI",
+      "Marigold/router: Memory-preserving agent router",
+      "Undead Agent: Simulating persistent AI identity",
+      "SSH backdoor in trojanized Claude extension",
+      "Hacktoberfest AI challenge: Memory & identity focus",
+      "MoE offloading not always faster: GPU test results"
+    ]
+  }
+}
