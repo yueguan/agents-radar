@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code：GitHub连接器回归紧急",
+      "OpenAI Codex：MCP漏洞与Windows卡顿报告",
+      "Gemini CLI：新版本即将发布",
+      "GitHub Copilot CLI：稳定且小幅更新",
+      "Qwen Code：代理工作流积极开发",
+      "Pi：轻量级AI工具受关注"
+    ],
+    "ai-agents": [
+      "OpenClaw：24小时内合并500个PR",
+      "OpenClaw：会话偏好丢失修复",
+      "OpenClaw：重启后保留磁盘权限",
+      "Hermes Agent：自托管使用活跃度高",
+      "QwenPaw：多智能体系统中崭露头角",
+      "ZeroClaw：专注沙箱执行"
+    ],
+    "ai-infra": [
+      "vLLM：v0.30.0发布，支持SM8x",
+      "SGLang：CUDA稳定性问题受关注",
+      "llama.cpp：推测解码修复",
+      "Ollama：强化本地推理",
+      "LiteLLM：企业API网关增长",
+      "Unsloth：视觉语言模型训练提升"
+    ],
+    "ai-trending": [
+      "Claude-Mem：107K星，持久记忆趋势",
+      "Orkas：上下文保持新星",
+      "Donchitos/Claude-Code-Game-Studios：AI虚拟工作室",
+      "ECC：智能体优化热门榜首位",
+      "firecrawl：网页数据摄入激增",
+      "OpenMausBot：沙箱执行受欢迎"
+    ],
+    "ai-web": [
+      "Anthropic推出*Insights*用于研究",
+      "真实世界Claude使用数据可访问",
+      "试点研究揭示生产力模式",
+      "隐私保护数据共享启用",
+      "强调研究者独立性",
+      "推进AI影响研究民主化"
+    ],
+    "ai-hn": [
+      "Mistral Large 4权重开源",
+      "Google Sleep框架应对遗忘",
+      "Anthropic数据泄露引发工具完整性讨论",
+      "Gemini 4 Carbon：面向边缘的轻量模型",
+      "游戏逆向工程引伦理争议",
+      "新研究揭示水印权衡"
+    ],
+    "ai-community": [
+      "AI Necromancer复活'勿碰'文件",
+      "两行函数胜过AI合谋",
+      "分析已损卫星幽灵信号",
+      "TabPFN低预算表现超越LLM",
+      "本地AI可在6GB显存运行",
+      "混合RAG技术受关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code: GitHub connector regression urgent",
+      "OpenAI Codex: MCP leaks and Windows lag reported",
+      "Gemini CLI: New release expected soon",
+      "GitHub Copilot CLI: Stable with minor updates",
+      "Qwen Code: Active development on agent workflows",
+      "Pi: Lightweight AI tool gaining traction"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 PRs merged in 24 hours",
+      "OpenClaw: Fix for session preference loss",
+      "OpenClaw: Disk authority retained after restart",
+      "Hermes Agent: High engagement in self-hosted use",
+      "QwenPaw: Emerging role in multi-agent systems",
+      "ZeroClaw: Focus on sandboxed execution"
+    ],
+    "ai-infra": [
+      "vLLM: v0.30.0 released with SM8x support",
+      "SGLang: CUDA stability issues under scrutiny",
+      "llama.cpp: Fixes for speculative decoding",
+      "Ollama: Strong local inference focus",
+      "LiteLLM: Enterprise API gateway growth",
+      "Unsloth: Vision-language model training boost"
+    ],
+    "ai-trending": [
+      "Claude-Mem: 107K stars, persistent memory trend",
+      "Orkas: Rising star in context retention",
+      "Donchitos/Claude-Code-Game-Studios: AI virtual studio",
+      "ECC: Top trending for agent optimization",
+      "firecrawl: Web data ingestion surge",
+      "OpenMausBot: Sandbox execution popularity"
+    ],
+    "ai-web": [
+      "Anthropic launches *Insights* for research",
+      "Real-world Claude usage data now accessible",
+      "Pilot study reveals productivity patterns",
+      "Privacy-preserving data sharing enabled",
+      "Researcher independence emphasized",
+      "Democratizing AI impact research underway"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 weights open-sourced",
+      "Google Sleep Framework tackles forgetting",
+      "Anthropic breach sparks tool integrity debate",
+      "Gemini 4 Carbon: Edge-focused lightweight model",
+      "AI ethics controversy over game reverse-engineering",
+      "Watermarking trade-offs revealed in new study"
+    ],
+    "ai-community": [
+      "AI Necromancer revives 'DO NOT TOUCH' files",
+      "Two-line function beats AI collusion",
+      "Dead satellite ghost signals analyzed",
+      "TabPFN outperforms LLMs on low budget",
+      "Local AI runs on 6GB VRAM",
+      "Hybrid RAG techniques gain traction"
+    ]
+  }
+}
