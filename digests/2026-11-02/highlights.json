@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 10个问题，无新版本发布",
+      "GitHub Copilot CLI v1.0.106-2 发布",
+      "Gemini CLI 更新夜间构建版本",
+      "OpenAI Codex 发布两个测试版",
+      "Pi CLI 在开发社区获关注",
+      "Qwen Code 成为开源替代方案"
+    ],
+    "ai-agents": [
+      "OpenClaw：24小时内500个问题，500个提交",
+      "OpenClaw发现30个高危漏洞",
+      "无新OpenClaw版本，稳定版卡住",
+      "修复聊天冻结与音频过期问题",
+      "移动端界面优化进行中",
+      "技能工作坊预算恢复"
+    ],
+    "ai-infra": [
+      "vLLM：12个提交合并，SM120调优",
+      "SGLang 修复负载下稳定性",
+      "llama.cpp 今日发布6次",
+      "Ollama 更新安全与解析",
+      "LiteLLM 增加基于Rust的优化",
+      "vLLM与LiteLLM推动低延迟趋势"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem：+1526星",
+      "affaan-m/ECC：294K星，+1.8K",
+      "AI-engineering-hub 成教程枢纽",
+      "FireCrawl、OpenBB、Vibe-Trading 走势上升",
+      "RAG与代理框架主导活跃度",
+      "持久化内存工具势头增强"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 在Hacker News 开源",
+      "Sleep框架支持持续学习",
+      "Claude VS Code插件后门曝光",
+      "AI代理群在Minecraft实验中失败",
+      "Hacker News热议AI投资回报与成本",
+      "企业过度扩张引发质疑"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B：780万下载，1.8万点赞",
+      "Lightricks/LTX-2.5：240万下载",
+      "DeepSeek-V4.1-Flash-1017：17万下载",
+      "Mistral-Large-4-1T-A52B 受研究关注",
+      "GGUF模型推动本地推理访问",
+      "NVIDIA与百度推进语音/OCR边界"
+    ],
+    "ai-community": [
+      "本地AI发明162个Python包",
+      "161人重跑后回归，引发疑问",
+      "AI代理轻信所读内容",
+      "Qwenputer 将RISC-V CPU嵌入LLM",
+      "@ts-ignore被禁，但类型转换仍存风险",
+      "幻觉代码带来安全风险"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code hits 10 issues, no new release",
+      "GitHub Copilot CLI v1.0.106-2 released",
+      "Gemini CLI updates with nightly builds",
+      "OpenAI Codex ships two alpha releases",
+      "Pi CLI gains traction in dev community",
+      "Qwen Code emerges as open alternative"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs in 24h",
+      "30 high-severity bugs in OpenClaw",
+      "No new OpenClaw release, stable version stuck",
+      "Fixes for chat freeze and audio expiry",
+      "Mobile UI improvements underway",
+      "Skill workshop read budget restored"
+    ],
+    "ai-infra": [
+      "vLLM: 12 PRs merged, SM120 tuning",
+      "SGLang fixes stability under load",
+      "llama.cpp releases 6 times today",
+      "Ollama updates security & parsing",
+      "LiteLLM adds Rust-based optimizations",
+      "vLLM & LiteLLM drive low-latency trends"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem: +1526 stars",
+      "affaan-m/ECC: 294K stars, +1.8K",
+      "AI-engineering-hub becomes hub for tutorials",
+      "FireCrawl, OpenBB, Vibe-Trading trend",
+      "RAG & agent frameworks dominate activity",
+      "Persistent memory tools gain momentum"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 open-sourced on HN",
+      "Sleep Framework enables continual learning",
+      "Backdoor in Claude VS Code extension exposed",
+      "AI agent swarms fail in Minecraft experiment",
+      "Hacker News debates AI ROI and costs",
+      "Corporate overreach fuels skepticism"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B: 7.8M downloads, 18K likes",
+      "Lightricks/LTX-2.5: 2.4M downloads",
+      "DeepSeek-V4.1-Flash-1017: 170K downloads",
+      "Mistral-Large-4-1T-A52B gains research traction",
+      "GGUF models drive local inference access",
+      "NVIDIA & Baidu push speech/OCR boundaries"
+    ],
+    "ai-community": [
+      "Local AI invents 162 Python packages",
+      "161 return after re-run, raises questions",
+      "AI agents trust everything they read",
+      "Qwenputer embeds RISC-V CPU in LLM",
+      "@ts-ignore banned, but casts remain risky",
+      "Security risks from hallucinated code"
+    ]
+  }
+}
