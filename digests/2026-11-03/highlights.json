@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.317 发布稳定性修复版",
+      "OpenAI Codex 进入 rust-v0.167.0-alpha.4 阶段",
+      "Gemini CLI 最新版本出现严重卡顿问题",
+      "Pi CLI 因模块化 AI 工作流受关注",
+      "Qwen Code 在开源圈采用率上升",
+      "OpenCode 推出新插件系统增强扩展性"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10 新增加密 Git 备份",
+      "387 个问题暴露 OpenClaw 稳定性挑战",
+      "Hermes Agent GitHub 星标达 25.9 万",
+      "ZeroClaw 发布代理状态完整性补丁",
+      "IronClaw 强化会话生命周期管理",
+      "QwenPaw 扩展多代理协同功能"
+    ],
+    "ai-infra": [
+      "vLLM v0.33.0rc3 接近最终发布",
+      "SGLang v0.5.23 稳定，合并超 1000 个 PR",
+      "LiteLLM 开始迁移 Rust 提升性能",
+      "Ollama v0.40.14-rc0 专注稳定性",
+      "Unsloth 优化界面与内存处理",
+      "llama.cpp 修复关键 SQLite 状态漏洞"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem 星标激增 +1,803",
+      "Hermes Agent 达 25.9 万 GitHub 星标",
+      "Agent-Reach 自主性获 10.8 万星标",
+      "Agent-desktop 将 Rust 代理引入终端",
+      "FreeToken 实现桌面运行数据中心模型",
+      "Colibri 通过纯 C 流式传输运行 MoE 模型"
+    ],
+    "ai-web": [
+      "OpenAI 招聘 Dan Driscoll 负责系统工程",
+      "新 '网格守护者计划' 暗示可持续发展",
+      "启动 Forward Deployed Engineering Means",
+      "OpenAI 规模化 Git 揭示内部重点",
+      "OpenAI 今日发布 6 篇新文章",
+      "Anthropic 自 10 月 27 日起沉默"
+    ],
+    "ai-hn": [
+      "LongCat-2.5：原生多模态智能体模型",
+      "Mistral Large 4 开源并开放完整权重",
+      "AI 实现小鼠脑部手术——伦理争议爆发",
+      "Anthropic IPO 审查在 HN 加剧",
+      "AI 在真实部署中破坏旧代码",
+      "被盗 API 密钥暴露重大安全风险"
+    ],
+    "ai-community": [
+      "代理输出正确但答案错误",
+      "闲置 Claude 会话耗资 $1.00（原 $0.04）",
+      "AI 代码审查可能首见而非次见",
+      "确定性安全闸门渐受青睐",
+      "文档注入提示引发警报",
+      "恶意扩展威胁代理供应链"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.317 released with stability fixes",
+      "OpenAI Codex enters rust-v0.167.0-alpha.4 phase",
+      "Gemini CLI faces critical hang bugs in latest release",
+      "Pi CLI gains traction for modular AI workflows",
+      "Qwen Code sees rising adoption in open-source circles",
+      "OpenCode pushes extensibility with new plugin system"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10 adds redacted Git backups",
+      "387 issues highlight OpenClaw's stability challenges",
+      "Hermes Agent hits 259K stars on GitHub",
+      "ZeroClaw releases agent state integrity patches",
+      "IronClaw boosts session lifecycle management",
+      "QwenPaw expands multi-agent coordination features"
+    ],
+    "ai-infra": [
+      "vLLM v0.33.0rc3 nears final release",
+      "SGLang v0.5.23 stabilizes with 1k+ PRs",
+      "LiteLLM begins Rust migration for performance",
+      "Ollama v0.40.14-rc0 focuses on stability",
+      "Unsloth improves UI and memory handling",
+      "llama.cpp fixes critical SQLite state bugs"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem surges +1,803 stars",
+      "Hermes Agent hits 259K GitHub stars",
+      "Agent-Reach gains 108K stars for autonomy",
+      "Agent-desktop brings Rust agents to terminals",
+      "FreeToken enables datacenter models on desktops",
+      "Colibri runs MoE models via pure C streaming"
+    ],
+    "ai-web": [
+      "OpenAI hires Dan Driscoll for systems engineering",
+      "New 'Grid Protectors Program' hints at sustainability",
+      "Forward Deployed Engineering Means launched",
+      "Scaling Git at OpenAI reveals internal focus",
+      "OpenAI publishes 6 new articles today",
+      "Anthropic remains silent since Oct 27"
+    ],
+    "ai-hn": [
+      "LongCat-2.5: native multimodal agentic model",
+      "Mistral Large 4 open-sourced with full weights",
+      "AI performs mouse brain surgery—ethical debate erupts",
+      "Anthropic IPO scrutiny intensifies on HN",
+      "AI breaks legacy code in real-world deployment",
+      "Stolen API keys expose major security risk"
+    ],
+    "ai-community": [
+      "Agent writes 'wrong' answer despite correct output",
+      "Idle Claude session costs $1.00 after $0.04",
+      "AI code reviewer may be first opinion, not second",
+      "Deterministic safety gates gain traction",
+      "Prompt injection via documents sparks alarm",
+      "Malicious extensions threaten agent supply chains"
+    ]
+  }
+}
