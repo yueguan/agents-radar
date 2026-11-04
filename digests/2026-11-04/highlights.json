@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.318 稳定性修复版发布",
+      "OpenAI Codex 仍无发布，10个高优先级问题待解决",
+      "Gemini CLI 推出夜间版 v0.67.0 供早期用户使用",
+      "GitHub Copilot CLI 升级至 v1.0.106-7",
+      "OpenCode 近24小时新增10个PR",
+      "Qwen Code 在开源社区获关注"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10 解决崩溃循环",
+      "OpenClaw 关键会话状态漏洞已修复",
+      "医生修复流程现可稳定退出",
+      "Llama.cpp 管理器就绪问题已解决",
+      "原生主机执行共享状态错误已修补",
+      "今日合并174个OpenClaw PR"
+    ],
+    "ai-infra": [
+      "vLLM：5个问题，昨日合并7个PR",
+      "SGLang 9个开放问题，5个PR",
+      "llama.cpp 发布 b12094 和 b12091",
+      "Ollama 推出 v0.40.15-rc0 用于测试",
+      "LiteLLM：4个问题，5个PR更新",
+      "Unsloth 持续优化重点"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem 今日+1,139星",
+      "firecrawl/firecrawl 为代理扩展网络数据",
+      "affaan-m/ECC 优化代理性能",
+      "Panniantong/Agent-Reach 实现实时访问",
+      "unclecode/crawl4ai 成为数据管道新选择",
+      "Ollama 达18.5万星，支持本地推理"
+    ],
+    "ai-web": [
+      "Anthropic 推出 FlashProve 可验证AI",
+      "Claude Opus 完成端到端科研",
+      "可验证推理论文详述ZKP集成",
+      "OpenAI 今日仅发布元数据",
+      "FlashProve 采用StarkWare与RESI框架",
+      "AI输出现可实现密码学信任"
+    ],
+    "ai-hn": [
+      "Hacker News 讨论3.2万亿隐性AI债务",
+      "富士胶片磁带产量飙升5倍",
+      "Postman 静默AI插件引发争议",
+      "Revolut 转用GLM控制成本",
+      "Octomind 推出省令牌工具",
+      "Google 威胁切断学校搜索访问"
+    ],
+    "ai-arxiv": [
+      "FlagRot 提升KV缓存压缩效率",
+      "PACT 以更少计算增强推理",
+      "Say Less 减少令牌无损质量",
+      "COMPREHEND 引入蕴含基准",
+      "EvoGroup 支持持久化代理协作",
+      "Pixel-UMI 实现大模型与机器人控制融合"
+    ],
+    "ai-community": [
+      "AI 无上下文自信生成错误代码",
+      "代理幻觉自批即使正确也存在",
+      "推理成本飙升无明确原因",
+      "消费级GPU运行125B模型成可能",
+      "纽约时报起诉Brave训练数据合法性",
+      "Starlight Forge 为代码提供证据文档"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.318 released with stability fixes",
+      "OpenAI Codex still no release despite 10 hot issues",
+      "Gemini CLI hits nightly v0.67.0 for early adopters",
+      "GitHub Copilot CLI updates to v1.0.106-7",
+      "OpenCode sees 10 PRs in last 24h",
+      "Qwen Code gains traction in open-source community"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10 stabilizes crash loops",
+      "Critical session state bugs fixed in OpenClaw",
+      "Doctor repair process now exits reliably",
+      "Llama.cpp manager readiness issue resolved",
+      "Native host exec shared-state errors patched",
+      "174 PRs merged in OpenClaw today"
+    ],
+    "ai-infra": [
+      "vLLM: 5 issues, 7 PRs merged yesterday",
+      "SGLang sees 9 open issues, 5 PRs",
+      "llama.cpp releases b12094 and b12091",
+      "Ollama rolls out v0.40.15-rc0 for testing",
+      "LiteLLM: 4 issues, 5 PRs updated",
+      "Unsloth continues optimization focus"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem +1,139 stars today",
+      "firecrawl/firecrawl scales web data for agents",
+      "affaan-m/ECC optimizes agent performance",
+      "Panniantong/Agent-Reach enables real-time access",
+      "unclecode/crawl4ai grows as data pipeline",
+      "Ollama hits 185K stars with local inference"
+    ],
+    "ai-web": [
+      "Anthropic launches FlashProve for verifiable AI",
+      "Claude Opus performs end-to-end science research",
+      "Provable inference paper details ZKP integration",
+      "OpenAI publishes only metadata today",
+      "FlashProve uses StarkWare and RESI frameworks",
+      "Cryptographic trust in AI outputs now possible"
+    ],
+    "ai-hn": [
+      "Hacker News debates $3.2T hidden AI debt",
+      "Fujifilm surges 5x in tape production",
+      "Postman’s silent AI plugin sparks backlash",
+      "Revolut switches to GLM for cost control",
+      "Octomind launches token-saving tool",
+      "Google threatens school Search access cut"
+    ],
+    "ai-arxiv": [
+      "FlagRot boosts KV cache compression efficiency",
+      "PACT improves reasoning with less computation",
+      "Say Less reduces tokens without quality loss",
+      "COMPREHEND introduces entailment-based benchmarks",
+      "EvoGroup enables persistent agent collaboration",
+      "Pixel-UMI merges LLMs with robotics control"
+    ],
+    "ai-community": [
+      "AI confidently generates wrong code without context",
+      "Agent hallucinates self-criticism even when correct",
+      "Inference costs spike with no traceable cause",
+      "Running 125B models on consumer GPUs now possible",
+      "NYT sues Brave over training data legality",
+      "Starlight Forge brings evidence-backed docs to code"
+    ]
+  }
+}
