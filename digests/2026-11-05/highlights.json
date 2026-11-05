@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 新增技能功能",
+      "OpenAI Codex 发布 alpha v0.168.0",
+      "Gemini CLI 发布 v0.68.0-预览版",
+      "Qwen Code 性能显著提升",
+      "Pi CLI 专注隐私与速度",
+      "GitHub Copilot CLI 企业应用领先"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.11.5-beta.1 发布",
+      "新知识文稿员功能上线",
+      "OpenClaw 增加 PostgreSQL 支持",
+      "内存泄漏成主要问题",
+      "代理工作流支持多工具",
+      "会话不稳定仍是主要缺陷"
+    ],
+    "ai-infra": [
+      "llama.cpp v0.9.0 (b12110) 发布",
+      "vLLM 稳定版 v0.32.0 存在漏洞",
+      "SGLang 尚无稳定版本",
+      "Ollama 未发布新版本",
+      "LiteLLM 新增模型路由",
+      "Unsloth 提升训练效率"
+    ],
+    "ai-trending": [
+      "claude-mem 今日获 1,170 颗星",
+      "NVIDIA 自动本体论增长 2,050 颗星",
+      "gstack：TypeScript 实现 CEO 代理",
+      "agent-desktop：Rust CLI 系统控制",
+      "MoneyPrinterTurbo 流行度飙升",
+      "Scrapling 推动 AI 内容自动化"
+    ],
+    "ai-web": [
+      "Anthropic 揭示粒子库发现",
+      "Claude 用于原核细胞研究",
+      "OpenAI 发布 5 篇神秘文章",
+      "OpenAI 页面无内容",
+      "OpenAI 或将重大发布",
+      "AI 成生物学共同研究员"
+    ],
+    "ai-hn": [
+      "可验证推理受赞",
+      "Tencent Hy4 引全球关注",
+      "LLM 无法读取神经权重",
+      "谷歌/OpenAI 数据实践争议",
+      "DoorDash AI 部署表现不佳",
+      "Postman 静默安装遭批评"
+    ],
+    "ai-arxiv": [
+      "模态感知的 MoE 模型剪枝",
+      "持久抑制不一致 LLM",
+      "DNO-Prct 对齐偏好",
+      "CARTBench 基准发布",
+      "SlackBench 测量真实代码",
+      "暴露男性抽象偏见"
+    ],
+    "ai-community": [
+      "AI 代码‘几乎正确’——危险",
+      "7 种方式被 AI 代码误导",
+      "用 Rust 构建无权限沙箱",
+      "权重空间编程突破",
+      "LLM 内嵌嵌入式 CPU 可行",
+      "AI 代理需可观测性与信任"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code gains new Skills feature",
+      "OpenAI Codex hits alpha v0.168.0",
+      "Gemini CLI launches v0.68.0-preview",
+      "Qwen Code shows strong performance gains",
+      "Pi CLI focuses on privacy and speed",
+      "GitHub Copilot CLI leads in enterprise use"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.11.5-beta.1 released",
+      "New Knowledge Scribes for agents",
+      "PostgreSQL support added to OpenClaw",
+      "Memory leaks dominate OpenClaw issues",
+      "Agent workflows now span multiple tools",
+      "Session instability remains a top bug"
+    ],
+    "ai-infra": [
+      "llama.cpp v0.9.0 (b12110) released",
+      "vLLM stable v0.32.0 with bugs",
+      "SGLang no stable release yet",
+      "Ollama sees no new release",
+      "LiteLLM adds new model routing",
+      "Unsloth boosts training efficiency"
+    ],
+    "ai-trending": [
+      "claude-mem hits 1,170 stars today",
+      "NVIDIA auto-ontology gains 2,050 stars",
+      "gstack: CEO agent setup in TypeScript",
+      "agent-desktop: Rust CLI for system control",
+      "MoneyPrinterTurbo surges in popularity",
+      "Scrapling drives AI content automation"
+    ],
+    "ai-web": [
+      "Anthropic reveals vault particle discovery",
+      "Claude used in prokaryotic cell research",
+      "OpenAI publishes 5 cryptic articles",
+      "No content behind OpenAI URLs",
+      "OpenAI likely preparing major launch",
+      "AI as co-researcher in biology"
+    ],
+    "ai-hn": [
+      "Provable inference for LLMs praised",
+      "Tencent Hy4 sparks global interest",
+      "LLMs fail at reading neural weights",
+      "Google/OpenAI data practices debated",
+      "DoorDash AI rollout underperforms",
+      "Postman's silent AI install criticized"
+    ],
+    "ai-arxiv": [
+      "Modality-aware pruning for MoE models",
+      "Durably suppressing misaligned LLMs",
+      "DNO-Prct aligns models with preferences",
+      "CARTBench benchmark launched",
+      "SlackBench measures real-world code",
+      "Male abstraction bias exposed"
+    ],
+    "ai-community": [
+      "AI code is 'almost right'—dangerous",
+      "7 ways AI fools you with code",
+      "Build unprivileged sandbox in Rust",
+      "Weight-space programming breakthrough",
+      "Embedded CPUs inside LLMs possible",
+      "AI agents need observability & trust"
+    ]
+  }
+}
