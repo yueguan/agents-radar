@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 24小时热点：10个",
+      "OpenAI Codex发布v0.167.0 & v0.168.0-alpha",
+      "Gemini CLI今日出现10个热点",
+      "GitHub Copilot CLI更新至v1.0.106",
+      "OpenCode 24小时引领10个关键PR",
+      "Pi凭借开放架构获得关注"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.11.1发布安全修复",
+      "OpenClaw v2026.11.1中Mac设置更安全",
+      "Telegram、Discord频道回复已修复",
+      "严重内存耗尽漏洞持续存在",
+      "OpenClaw在Windows/macOS面临崩溃循环",
+      "高危P0/P1漏洞仍未解决"
+    ],
+    "ai-infra": [
+      "vLLM v0.32.0因SM120崩溃受审查",
+      "SGLang CI不稳定阻碍进展",
+      "llama.cpp存在严重稳定性问题",
+      "Ollama活动保持强劲",
+      "LiteLLM充当通用API层",
+      "Unsloth专注内存效率"
+    ],
+    "ai-trending": [
+      "NVIDIA/auto-ontology增长+2,679星",
+      "vercel-labs/agent-desktop增长+2,173星",
+      "RAG工具跨社区扩展",
+      "Agent-browser通过Rust获得关注",
+      "Garrytan/gstack提供23个观点工具",
+      "OpenWebUI主导知识管理"
+    ],
+    "ai-web": [
+      "Claude破解3D保险库粒子结构",
+      "Anthropic启动访客调查员招募",
+      "OpenAI暗示GPT-6网络启动",
+      "AI驱动生物学突破发表",
+      "Claude协助实验设计",
+      "AI推动科学发现"
+    ],
+    "ai-hn": [
+      "Claude Code泄露用户邮件",
+      "Meta运行160亿美元AI深度伪造骗局",
+      "AnthropicIPO估值受质疑",
+      "Nvidia RTX Spark降低Linux推理速度",
+      "腾讯Hy4模型引发兴趣",
+      "Pjit-21K仅用2万美元训练"
+    ],
+    "ai-arxiv": [
+      "WeLM-Image：统一图像生成模型",
+      "TriAttention实现高效长上下文LLM",
+      "能源预测不确定性量化",
+      "流体动力学认证神经计算",
+      "动态视觉感知提升智能体",
+      "知识图谱修复势头增强"
+    ],
+    "ai-community": [
+      "一个.md文件可劫持编码智能体",
+      "智能体需严格出口控制",
+      "仅当版本控制时才信任输出",
+      "编码智能体积累记忆——用git diff追踪",
+      "智能体使用脚本而非Markdown",
+      "高质量调节器成本超4K分辨率"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code hot issues: 10 in last 24h",
+      "OpenAI Codex releases v0.167.0 & v0.168.0-alpha",
+      "Gemini CLI sees 10 hot issues today",
+      "GitHub Copilot CLI updated to v1.0.106",
+      "OpenCode leads with 10 key PRs in 24h",
+      "Pi gains traction with open architecture"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.11.1 released with security fixes",
+      "Mac settings now safer in OpenClaw v2026.11.1",
+      "Channel replies fixed for Telegram, Discord",
+      "Critical memory exhaustion bugs persist",
+      "OpenClaw faces crash loops on Windows/macOS",
+      "High-severity P0/P1 bugs remain unresolved"
+    ],
+    "ai-infra": [
+      "vLLM v0.32.0 under scrutiny with SM120 crash",
+      "SGLang CI instability blocks progress",
+      "llama.cpp has high-severity stability bugs",
+      "Ollama activity remains strong",
+      "LiteLLM acts as universal API layer",
+      "Unsloth focuses on memory efficiency"
+    ],
+    "ai-trending": [
+      "NVIDIA/auto-ontology surges with +2,679 stars",
+      "vercel-labs/agent-desktop hits +2,173 stars",
+      "RAG tools scale across communities",
+      "Agent-browser gains traction via Rust",
+      "Garrytan/gstack offers 23 opinionated tools",
+      "OpenWebUI dominates knowledge management"
+    ],
+    "ai-web": [
+      "Claude solves 3D vault particle structure",
+      "Anthropic launches guest investigator call",
+      "OpenAI hints at GPT-6 Cyber launch",
+      "AI-driven biology breakthrough published",
+      "Claude assists in experimental design",
+      "Scientific discovery powered by AI"
+    ],
+    "ai-hn": [
+      "Claude Code leaks user emails",
+      "Meta ran $16B in AI deepfake scams",
+      "Anthropic IPO valuation questioned",
+      "Nvidia RTX Spark slows Linux inference",
+      "Tencent's Hy4 model sparks interest",
+      "Pjit-21K trained for just $20K"
+    ],
+    "ai-arxiv": [
+      "WeLM-Image: unified image generation model",
+      "TriAttention enables efficient long-context LLMs",
+      "Uncertainty quantification in energy forecasting",
+      "Certified neural computation for fluid dynamics",
+      "Dynamic visual perception advances agents",
+      "Knowledge graph repair gains momentum"
+    ],
+    "ai-community": [
+      "One .md file can hijack coding agents",
+      "Agents need strict egress controls",
+      "Trust agent output only if version-controlled",
+      "Coding agents grow memories — git diff it",
+      "Use scripts, not Markdown, for agents",
+      "Quality knobs cost more than 4K resolution"
+    ]
+  }
+}
