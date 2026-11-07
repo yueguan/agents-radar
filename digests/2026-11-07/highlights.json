@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.319 发布安全修复版",
+      "OpenAI Codex 推出 rust-v0.169.0-alpha.2 版本",
+      "GitHub Copilot CLI 升级至 v1.0.108-0",
+      "Qwen Code v0.26.9 正式上线，稳定性提升",
+      "Gemini CLI 尽管活跃度高仍无新版本发布",
+      "Pi 工具虽有10个开放问题仍未发布新版本"
+    ],
+    "ai-agents": [
+      "OpenClaw：24小时内更新365个问题",
+      "v2026.10.10 存在严重会话损坏漏洞",
+      "PR #194384 修复 PostgreSQL 16 定时任务错误",
+      "测试缓存增长保障 CI 中工作器复用",
+      "OpenClaw ID 插件恢复艺术作品访问",
+      "尽管合并大量 PR 仍无新版本发布"
+    ],
+    "ai-infra": [
+      "LiteLLM v1.108.2 (LTS) 发布稳定修复版",
+      "Unsloth v0.1.916 现已支持更快训练",
+      "llama.cpp b12180 小版本今日发布",
+      "vLLM 与 SGLang 推进低延迟推理",
+      "Ollama 24小时内仅合并1个 PR",
+      "DSA、FP8 MLA、MoE 分片驱动基础设施创新"
+    ],
+    "ai-trending": [
+      "NVIDIA 自动本体论24小时内获超2000星",
+      "Dify 与 Firecrawl 引领代理自主趋势",
+      "Qdrant 与 Meilisearch 演变为智能 RAG 引擎",
+      "自动本体论实现确定性大模型推理",
+      "Afaan-m/ECC 驱动自维持 AI 代理",
+      "LangGenius/Dify 实现自主网络工作流"
+    ],
+    "ai-web": [
+      "Anthropic 推出 Project EVE：Claude Opus 登陆 MMORPG",
+      "新研究：科学家用 AI 实现真实发现",
+      "OpenAI 发布《测量湿实验科学》指数",
+      "Anthropic 招募生命科学客座研究员",
+      "Claude Opus 在虚拟经济中展现目标导向行为",
+      "AI 在转化科学中的角色迅速扩展"
+    ],
+    "ai-hn": [
+      "Gemini Omni 1.2 Flash 引发性能争议",
+      "Memorilla 为 LLM 引入潜在语义记忆",
+      "SketchAgentBench 测试代理三维空间推理能力",
+      "基于 Jev 的 LLM 评估降低推理成本",
+      "Claude Code 邮件泄露引发隐私担忧",
+      "谷歌收购怀俄明数据中心引关注"
+    ],
+    "ai-arxiv": [
+      "MAEMs 解码任意残差流方向",
+      "SpecCTMC 实现精确推测生成",
+      "在异构认知任务上评测 LLM",
+      "AI 科学家生态如 Scientist World 受关注",
+      "ReproBridge 推动可执行研究基础设施",
+      "高效推理与内存感知模型主导论文"
+    ],
+    "ai-community": [
+      "Claude Code 因 User-Agent 泄露用户邮箱",
+      "Hacktoberfest AI 冠军揭晓：机器之灵",
+      "AI 代理因幻觉风险面临审查",
+      "本地 AI 部署增长用于边缘推理场景",
+      "Dev.to 文章警示：当 AI 说‘完成’，真完成了吗？",
+      "安全关注度上升：部署前需验证代理行为"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.319 released with security fixes",
+      "OpenAI Codex rolls out rust-v0.169.0-alpha.2",
+      "GitHub Copilot CLI updates to v1.0.108-0",
+      "Qwen Code v0.26.9 now live with improved stability",
+      "Gemini CLI lacks new release despite high activity",
+      "Pi tool shows no recent release despite 10 open issues"
+    ],
+    "ai-agents": [
+      "OpenClaw: 365 issues updated in 24h",
+      "Critical session corruption bugs in v2026.10.10",
+      "PR #194384 fixes PostgreSQL 16 cron job errors",
+      "Worker reuse preserved in CI with test cache growth",
+      "Access artwork restored for OpenClaw ID plugin",
+      "No new releases despite heavy PR merge activity"
+    ],
+    "ai-infra": [
+      "LiteLLM v1.108.2 (LTS) released with stability fixes",
+      "Unsloth v0.1.916 now available for faster training",
+      "llama.cpp b12180 minor update released today",
+      "vLLM and SGLang push low-latency inference advances",
+      "Ollama sees only 1 PR merged in 24h",
+      "DSA, FP8 MLA, MoE sharding drive infrastructure innovation"
+    ],
+    "ai-trending": [
+      "NVIDIA auto-ontology gains 2K+ stars in 24h",
+      "Dify and Firecrawl lead agent autonomy trend",
+      "Qdrant and Meilisearch evolve into intelligent RAG engines",
+      "Auto-ontology enables deterministic LLM reasoning",
+      "Afaan-m/ECC powers self-sustaining AI agents",
+      "LangGenius/Dify enables autonomous web-integrated workflows"
+    ],
+    "ai-web": [
+      "Anthropic launches Project EVE: Claude Opus in MMORPGs",
+      "New study: Scientists use AI for real discovery",
+      "OpenAI publishes 'Measuring Wet Lab Science' index",
+      "Anthropic calls for life sciences guest investigators",
+      "Claude Opus shows goal-driven behavior in virtual economies",
+      "AI's role in translational science expands rapidly"
+    ],
+    "ai-hn": [
+      "Gemini Omni 1.2 Flash sparks debate on performance",
+      "Memorilla introduces latent semantic memory for LLMs",
+      "SketchAgentBench tests 3D spatial reasoning in agents",
+      "Jev-based LLM judging reduces inference costs",
+      "Claude Code email leak fuels privacy concerns",
+      "Google’s Wyoming data center acquisition raises eyebrows"
+    ],
+    "ai-arxiv": [
+      "MAEMs decode any residual stream direction",
+      "SpecCTMC enables exact speculative generation",
+      "Benchmarking LLMs on heterogeneous cognitive tasks",
+      "AI-scientist ecosystems like Scientist World gain traction",
+      "ReproBridge promotes executable research infrastructures",
+      "Efficient inference and memory-aware models dominate papers"
+    ],
+    "ai-community": [
+      "Claude Code leaked user emails via User-Agent",
+      "Hacktoberfest AI winners announced: Ghost in the Machine",
+      "AI agents face scrutiny over hallucination risks",
+      "Local AI deployment grows for edge inference use cases",
+      "Dev.to article warns: When AI says 'Done,' what’s finished?",
+      "Security focus rises: vetting agent behavior before deployment"
+    ]
+  }
+}
