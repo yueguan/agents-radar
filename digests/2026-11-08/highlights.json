@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 有104+个开放问题",
+      "OpenAI Codex 更新至 v0.169.0-alpha.3",
+      "Gemini CLI 存在10个高优先级漏洞",
+      "GitHub Copilot CLI 发布补丁 v1.0.108-1",
+      "OpenCode 今日新增10个PR",
+      "Pi 面临10+活跃问题"
+    ],
+    "ai-agents": [
+      "OpenClaw：24小时内出现500个问题",
+      "P1漏洞 #177656 影响共享状态",
+      "无新版本发布；2026.10.5 不稳定",
+      "今日开启30个高优先级PR",
+      "修复 #194914 中的UI/UX不一致",
+      "恢复自定义代理工作区工具"
+    ],
+    "ai-infra": [
+      "vLLM：v0.33.0 出现回归问题",
+      "SGLang 调优前趋于稳定",
+      "llama.cpp b12197–b12196 已发布",
+      "Ollama 导致 Gemma 4 渲染失败",
+      "LiteLLM v1.110.0 已发布",
+      "Unsloth 专注多模态微调"
+    ],
+    "ai-trending": [
+      "sherlock-project/sherlock：今日获1,766颗星",
+      "ranxianglei/billion-context：长时序AI",
+      "agent-browser：安全无头网页访问",
+      "nvke：Go语言实现的NVIDIA Kubernetes引擎",
+      "ruff：超快Rust代码检查器（+350星）",
+      "zed：高性能编辑器（+1,114）"
+    ],
+    "ai-web": [
+      "Anthropic 发布《教AI构建科学模型》",
+      "AI与人类共同创建模型于神经科学",
+      "引用霍奇金-赫胥黎方程",
+      "Claude 成为科学合作者",
+      "真实神经动态建模",
+      "AI 加速数月研究进程"
+    ],
+    "ai-hn": [
+      "Claude Code 公开泄露凭证",
+      "邮件发送至第三方网站",
+      "MaxxBench 数据泄露引发担忧",
+      "微软关闭AI前沿团队",
+      "GPT-6 安全性能不足曝光",
+      "Anthropic IPO估值受质疑"
+    ],
+    "ai-community": [
+      "代理声称部署——无新容器",
+      "LiveReview：影响范围感知代码审查",
+      "Qwen3.5-0.8B 出现异常神经模式",
+      "代理运行于Slack与Mattermost",
+      "Apple Silicon 加速LLM解码",
+      "自定义推理引擎超越vLLM"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code has 104+ open issues",
+      "OpenAI Codex updates with v0.169.0-alpha.3",
+      "Gemini CLI has 10 high-priority bugs",
+      "GitHub Copilot CLI patches v1.0.108-1",
+      "OpenCode sees 10 new PRs today",
+      "Pi faces 10+ active issues"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues in 24 hours",
+      "P1 bug #177656 affects shared state",
+      "No new releases; 2026.10.5 unstable",
+      "30 high-priority PRs opened today",
+      "Fixing UI/UX inconsistencies in #194914",
+      "Restoring tools for custom agent workspaces"
+    ],
+    "ai-infra": [
+      "vLLM: v0.33.0 under regression",
+      "SGLang stabilizing before tuning",
+      "llama.cpp b12197–b12196 released",
+      "Ollama breaks Gemma 4 rendering",
+      "LiteLLM v1.110.0 out now",
+      "Unsloth targets multimodal fine-tuning"
+    ],
+    "ai-trending": [
+      "sherlock-project/sherlock: 1,766 stars today",
+      "ranxianglei/billion-context: long-horizon AI",
+      "agent-browser: secure headless web access",
+      "nvke: NVIDIA Kubernetes Engine in Go",
+      "ruff: ultra-fast Rust linter (+350 stars)",
+      "zed: high-performance editor (+1,114)"
+    ],
+    "ai-web": [
+      "Anthropic releases 'Teaching AI to Build Scientific Models'",
+      "AI co-creates models in neuroscience",
+      "Hodgkin-Huxley equations referenced",
+      "Claude as scientific collaborator",
+      "Real-world neural dynamics modeling",
+      "AI accelerates months-long research"
+    ],
+    "ai-hn": [
+      "Claude Code leaked credentials publicly",
+      "Emails sent to third-party sites",
+      "MaxxBench data leakage concerns",
+      "Microsoft shuts down AI Frontiers group",
+      "GPT-6 safety underperformance revealed",
+      "Anthropic IPO valuation under scrutiny"
+    ],
+    "ai-community": [
+      "Agent claimed deployment—no new containers",
+      "LiveReview: blast-radius-aware code reviews",
+      "Qwen3.5-0.8B shows unexplained neuron patterns",
+      "Agents run in Slack and Mattermost",
+      "Apple Silicon speeds up LLM decoding",
+      "Custom inference engines beat vLLM"
+    ]
+  }
+}
