@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 有1,873个开放问题",
+      "OpenAI Codex 有5,128个开放问题",
+      "Gemini CLI 现支持MCP授权",
+      "GitHub Copilot CLI 活跃，1,249个问题",
+      "新v2026.11.2版本提升隐私",
+      "Qwen Code 在开发流程中获关注"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.11.2今日发布",
+      "隐私：密钥不记录日志",
+      "使用后自动释放MCP授权",
+      "代理崩溃循环仍无解",
+      "高活跃度：24小时内500个PR",
+      "Hermes Agent 获社区青睐"
+    ],
+    "ai-infra": [
+      "vLLM 遇SM120性能退化",
+      "SGLang 存严重长上下文卡顿",
+      "llama.cpp 修复推测解码",
+      "Ollama AMD Vulkan问题持续",
+      "LiteLLM 现可编排多引擎栈",
+      "NVIDIA Blackwell 推动性能优化"
+    ],
+    "ai-trending": [
+      "Agent-browser 新增815颗星",
+      "NVKE 出现于GPU裸金属控制",
+      "Firecrawl 主导网页数据提取",
+      "mem0ai/mem0 提升记忆感知代理",
+      "RAG与上下文压缩趋势上升",
+      "百亿上下文项目获关注"
+    ],
+    "ai-hn": [
+      "Claude Code 公开泄露密码",
+      "高盛终止使用Claude Code",
+      "MaxxBench基准有效性存疑",
+      "Anthropic披露代理内存组件",
+      "邮件泄露引发信任危机",
+      "安全担忧主导HN讨论"
+    ],
+    "ai-hf": [
+      "LTX-2.5 下载量达260万",
+      "Qwen3.8-27B 下载量760万领先",
+      "未过滤Qwen变体激增",
+      "unsloth/Qwen3.8-Flash-Next-GGUF 受欢迎",
+      "SAM3 图像掩码生成受关注",
+      "PrunaAI/P-H3-Image-Comfy 热门"
+    ],
+    "ai-community": [
+      "PDF提示注入威胁上升",
+      "大模型对安全提示不回避",
+      "负面记忆模式受关注",
+      "Mac mini M5 Pro本地推理增长",
+      "权重空间编程受青睐",
+      "人作为工具的代理设计兴起"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code has 1,873 open issues",
+      "OpenAI Codex sees 5,128 open issues",
+      "Gemini CLI now supports MCP grants",
+      "GitHub Copilot CLI active with 1,249 issues",
+      "New v2026.11.2 release improves privacy",
+      "Qwen Code gains traction in dev workflows"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.11.2 released today",
+      "Privacy: secrets excluded from logs",
+      "MCP grants now auto-released after use",
+      "Agent crash loops still unresolved",
+      "High activity: 500 PRs in 24h",
+      "Hermes Agent gains community momentum"
+    ],
+    "ai-infra": [
+      "vLLM faces SM120 regressions",
+      "SGLang has critical long-context hangs",
+      "llama.cpp fixes speculative decoding",
+      "Ollama AMD Vulkan regression persists",
+      "LiteLLM now orchestrates multi-engine stacks",
+      "NVIDIA Blackwell drives performance focus"
+    ],
+    "ai-trending": [
+      "Agent-browser hits 815 new stars",
+      "NVKE emerges for GPU bare-metal control",
+      "Firecrawl leads web data extraction",
+      "mem0ai/mem0 boosts memory-aware agents",
+      "RAG and context compression trend up",
+      "Billion-context project gains traction"
+    ],
+    "ai-hn": [
+      "Claude Code leaked passwords publicly",
+      "Goldman Sachs pulls Claude Code",
+      "MaxxBench benchmark validity questioned",
+      "Anthropic details agent memory components",
+      "Email leaks spark trust crisis",
+      "Security concerns dominate HN discussions"
+    ],
+    "ai-hf": [
+      "LTX-2.5 hits 2.6M downloads",
+      "Qwen3.8-27B leads with 7.6M downloads",
+      "Uncensored Qwen variants surge",
+      "unsloth/Qwen3.8-Flash-Next-GGUF popular",
+      "SAM3 image mask generation gains traction",
+      "PrunaAI/P-H3-Image-Comfy trending"
+    ],
+    "ai-community": [
+      "Prompt injection in PDFs is rising threat",
+      "LLMs don’t abstain on safety prompts",
+      "Negative memory patterns gain traction",
+      "Local inference on Mac mini M5 Pro grows",
+      "Weight-space programming gaining interest",
+      "Human-as-a-tool agent design emerging"
+    ]
+  }
+}
