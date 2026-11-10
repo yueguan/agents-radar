@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.322 发布，修复代理稳定性问题",
+      "OpenAI Codex 仍处测试阶段—尚未公开发布",
+      "Gemini CLI 尽管活跃度高，仍未发布",
+      "GitHub Copilot CLI 获得社区强烈响应",
+      "Qwen Code 在开源 AI 工作流中崭露头角",
+      "Claude Code Skills 开源—一日斩获 +1,038 颗星"
+    ],
+    "ai-agents": [
+      "OpenClaw：24小时内处理500个问题与PR—紧急聚焦稳定性",
+      "大型Docker恢复传输修复合并 (#196373)",
+      "Systemd drop-in 指导已由 openclaw doctor 报告",
+      "无新版本发布—2026.11.5-beta.1 仍在测试",
+      "代理状态损坏漏洞主导当前问题列表",
+      "Windows 启动可靠性仍是关键痛点"
+    ],
+    "ai-infra": [
+      "vLLM：合并9个PR，无破坏性变更",
+      "SGLang v0.5.2 发布，API 有破坏性更新",
+      "llama.cpp：24小时内新增10个构建（b12233–b12242）",
+      "Ollama v0.40.16 发布—包含VRAM修复",
+      "LiteLLM v1.108.4 LTS 上线，更新速率限制器",
+      "Unsloth：合并6个PR—连接本地与代理工作流"
+    ],
+    "ai-trending": [
+      "Anthropic 开放 `skills`—一日获 +1,038 颗星",
+      "Firecrawl 与 Agent-Reach 推动网络爬取代理热潮",
+      "Afaan-m/ECC：代理性能追踪新星",
+      "OpenWebUI、Ollama、LangChain 仍为基石平台",
+      "Claude 快速入门火爆—开发者赋能激增",
+      "超大规模代理能力获得广泛关注"
+    ],
+    "ai-web": [
+      "Claude Fable 5.2 自主设计完整电子原型",
+      "Anthropic 推出 FlashProve：推理形式验证",
+      "Diode Computers 验证 Claude 硬件设计声明",
+      "OpenAI 控制室上线暗示企业部署",
+      "ChatGPT 企业版将上架 AWS 市场—即将推出？",
+      "Claude Fable 5.2 在 Artificial Analysis 得分65"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.2 得分65—Artificial Analysis 历史最高",
+      "Google Gemini 将个人文件路由至人工标注",
+      "高盛撤下交易员使用的 Claude Code—谨慎情绪上升",
+      "CoreWeave 债券收益率达16%—AI行业信用压力加剧",
+      "Meta Muse Ember：迄今最小最高效模型",
+      "TPU 8tx 与 TPU 8i Max 发布—新一代AI硬件"
+    ],
+    "ai-community": [
+      "AI代理生成‘影子待办’—未跟踪代码混乱",
+      "Claude Code 泄露2,539个密钥—安全警报",
+      "提示注入是授权问题，非仅提示本身",
+      "部分开发者因AI工具效率下降19%—真实权衡",
+      "循环工厂将开发页加载时间减少75%",
+      "边缘AI与零出站架构势头上升"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.322 released with agent stability fixes",
+      "OpenAI Codex still alpha—no public release yet",
+      "Gemini CLI remains unreleased despite high activity",
+      "GitHub Copilot CLI sees strong community engagement",
+      "Qwen Code gains traction in open-source AI workflows",
+      "Claude Code Skills open-sourced—+1,038 stars in a day"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and PRs in 24 hours—urgent stability focus",
+      "Fix for large Docker recovery transfers merged (#196373)",
+      "Systemd drop-in guidance now reported by openclaw doctor",
+      "No new releases—2026.11.5-beta.1 still in testing",
+      "Agent state corruption bugs dominate current issue list",
+      "Windows startup reliability remains critical pain point"
+    ],
+    "ai-infra": [
+      "vLLM: 9 PRs merged, no breaking changes",
+      "SGLang v0.5.2 released with breaking API updates",
+      "llama.cpp: 10 new builds (b12233–b12242) in 24h",
+      "Ollama v0.40.16 released—VRAM fix included",
+      "LiteLLM v1.108.4 LTS launched with rate limiter update",
+      "Unsloth: 6 PRs merged—bridging local and agent workflows"
+    ],
+    "ai-trending": [
+      "Anthropic opens `skills`—+1,038 stars in one day",
+      "Firecrawl & Agent-Reach drive web-scraping agent momentum",
+      "Afaan-m/ECC: rising star in agent performance tracking",
+      "OpenWebUI, Ollama, LangChain remain foundational platforms",
+      "Claude Quickstarts go viral—developer enablement surge",
+      "Web-scale agent capabilities gaining serious traction"
+    ],
+    "ai-web": [
+      "Claude Fable 5.2 designs full electronic prototypes autonomously",
+      "Anthropic launches FlashProve: formal verification for inference",
+      "Diode Computers validates Claude’s hardware design claims",
+      "OpenAI’s Control Room entry hints at enterprise rollout",
+      "ChatGPT Enterprise now on AWS Marketplace—coming soon?",
+      "Claude Fable 5.2 scores 65 on Artificial Analysis"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.2 scores 65—highest ever on Artificial Analysis",
+      "Google Gemini routing personal files to human annotators",
+      "Goldman Sachs pulls Claude Code from traders—caution grows",
+      "CoreWeave bond yield hits 16%—AI sector credit stress rising",
+      "Meta’s Muse Ember: smallest, most efficient model yet",
+      "TPU 8tx and TPU 8i Max unveiled—next-gen AI hardware"
+    ],
+    "ai-community": [
+      "AI agents create 'shadow backlog'—untracked code chaos",
+      "Claude Code leaked 2,539 secrets—security red flag",
+      "Prompt injection is an authorization problem, not just prompt",
+      "Some devs slowed by 19% despite AI tools—real-world tradeoff",
+      "Looping factories cut dev page load time by 75%",
+      "Edge AI and zero-egress architectures gain momentum"
+    ]
+  }
+}
