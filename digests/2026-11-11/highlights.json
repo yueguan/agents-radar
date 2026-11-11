@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.322 发布快速模式",
+      "OpenAI Codex 更新至 rust-v0.169.0-alpha.9",
+      "Gemini CLI v0.69.0 预览版发布",
+      "GitHub Copilot CLI v1.0.110-1 已上线",
+      "OpenCode v2.2.7 增加 Copilot 自动路由",
+      "Qwen Code 新增代理集成"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.11.3 通过隐藏任务结果增强隐私",
+      "OpenClaw 子任务交接现更可靠",
+      "OpenClaw 修复会话状态完整性问题",
+      "v2026.9.37 稳定网关部署",
+      "Hermes Agent 获得多代理编排能力",
+      "IronClaw 提升跨设备协作"
+    ],
+    "ai-infra": [
+      "vLLM v0.33.0rc1.dev992 稳定发布",
+      "SGLang v0.5.23 补丁修复回归问题",
+      "Ollama RC: v0.40.17-rc0 更新",
+      "LiteLLM v1.110.0-rc.1 安全补丁",
+      "Unsloth beta: 0.1.916-beta 上线",
+      "llama.cpp 无新版本，内部调整"
+    ],
+    "ai-trending": [
+      "ECC 框架显著提升 AI 代理性能",
+      "Firecrawl 推动代理实时网页访问",
+      "Agent-Reach 实现自主数据获取",
+      "Ollama 达 186K 星，本地 LLM 之王",
+      "LlamaIndex 演变为全栈工作流引擎",
+      "Meilisearch 驱动混合式 AI 搜索"
+    ],
+    "ai-web": [
+      "Anthropic IPO 路演启动，8.25 亿股",
+      "OpenAI 发布 8 篇企业聚焦文章",
+      "Claude Fable 5.2 在人工分析中得分 65",
+      "Meta Astryx 设计系统推动采纳",
+      "亚马逊转向 Strands Decider 降低成本",
+      "OpenAI 报告营收 100 亿美元，仍亏损"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.2 理性基准测试得分 65",
+      "Glasswing 报告质疑 Anthropic 安全性",
+      "AI 代码被指导致脆弱难维护系统",
+      "亚马逊使用 Strands Decider 节省成本",
+      "OpenAI 尽管营收 100 亿美元仍亏损",
+      "训练后权重删除改善模型？"
+    ],
+    "ai-arxiv": [
+      "新论文：删除权重提升 LLM 性能",
+      "柏拉图表征假说受挑战",
+      "人格泛化揭示意外关联",
+      "Vendi 评分实现可扩展异常检测",
+      "HiVe-Mem 优化长周期代理内存",
+      "GeoScope：遥感无训练推理"
+    ],
+    "ai-community": [
+      "代理需配置锁文件如代码依赖",
+      "Strands + Gemini 自动检测不稳定测试",
+      "Dev.to 社区重构建 AI 代理设计",
+      "Rust LLM 基准受审视",
+      "PDF 中提示注入风险曝光",
+      "超越 LLM：新模型渐受关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.322 launches Fast Mode",
+      "OpenAI Codex updates with rust-v0.169.0-alpha.9",
+      "Gemini CLI v0.69.0-preview.0 released",
+      "GitHub Copilot CLI v1.0.110-1 out now",
+      "OpenCode v2.2.7 adds Copilot Auto Routing",
+      "Qwen Code gains new agent integration"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.11.3 boosts privacy with hidden task results",
+      "Child-task handoffs now reliable in OpenClaw",
+      "OpenClaw fixes session state integrity issues",
+      "v2026.9.37 stabilizes gateway deployments",
+      "Hermes Agent gains multi-agent orchestration",
+      "IronClaw enhances cross-machine collaboration"
+    ],
+    "ai-infra": [
+      "vLLM v0.33.0rc1.dev992 stable release",
+      "SGLang v0.5.23 patch fixes regressions",
+      "Ollama RC: v0.40.17-rc0 update",
+      "LiteLLM v1.110.0-rc.1 sec patch",
+      "Unsloth beta: 0.1.916-beta launched",
+      "llama.cpp no new release, internal changes"
+    ],
+    "ai-trending": [
+      "ECC framework surges in AI agent performance",
+      "Firecrawl leads real-time web access for agents",
+      "Agent-Reach enables autonomous data fetching",
+      "Ollama hits 186K stars, local LLM king",
+      "LlamaIndex evolves into full-stack workflow engine",
+      "Meilisearch powers hybrid AI-powered search"
+    ],
+    "ai-web": [
+      "Anthropic IPO roadshow launches, 825M shares",
+      "OpenAI releases 8 enterprise-focused articles",
+      "Claude Fable 5.2 scores 65 on Artificial Analysis",
+      "Meta’s Astryx design system drives adoption",
+      "Amazon cuts costs switching to Strands Decider",
+      "OpenAI reports $10B revenue, still unprofitable"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.2 hits 65 on reasoning benchmark",
+      "Glasswing report questions Anthropic safety",
+      "AI code blamed for fragile, unmaintainable systems",
+      "Amazon saves costs using Strands Decider",
+      "OpenAI loses money despite $10B revenue",
+      "Weight deletion post-training improves models?"
+    ],
+    "ai-arxiv": [
+      "New paper: Deleting weights boosts LLM perf",
+      "Platonic Representation Hypothesis challenged",
+      "Persona generalization shows unexpected links",
+      "Vendi scores enable scalable anomaly detection",
+      "HiVe-Mem optimizes memory in long-horizon agents",
+      "GeoScope: Training-free inference for remote sensing"
+    ],
+    "ai-community": [
+      "Agents need config lockfiles like code deps",
+      "Strands + Gemini detect flaky tests automatically",
+      "Dev.to community rebuilds AI agent design",
+      "Rust LLM benchmarks under scrutiny",
+      "Prompt injection risks in PDFs revealed",
+      "Beyond LLMs: new models gaining traction"
+    ]
+  }
+}
